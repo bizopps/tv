@@ -91,10 +91,10 @@ http://streamsy.online:2999/coachj88/N93DPKS9pJ/299
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts 
 
 
-#EXTINF:-1 tvg-id="ACC.Network.HDTV.(ACCN).us" tvg-name="ACC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="US Sports",ACC Network
+#EXTINF:-1 tvg-id="ACC.Network.HDTV.(ACCN).us" tvg-name="ACC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png" group-title="US Sports",ACC Network
 https://v9.thetvapp.to/hls/ACCNetwork/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
 
-#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-name="Big Ten Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="US Sports",Big Ten Network
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-name="Big Ten Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png" group-title="US Sports",Big Ten Network
 https://v9.thetvapp.to/hls/BTN/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
 
 #EXTINF:-1 tvg-id="CBS.US Sports.Network.HDTV.(CBSSD).us" tvg-name="CBS US Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="US Sports",CBS US Sports Network
@@ -124,7 +124,7 @@ https://v9.thetvapp.to/hls/MLBNetwork/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2Z
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="US Sports",NBA TV
 https://v9.thetvapp.to/hls/NBATV/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
 
-#EXTINF:-1 tvg-id="NBC.US Sports.Chicago.HDTV.(NBCSCHHD).us" tvg-name="WNBC (New York) NBC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png",NBC East(New York)
+#EXTINF:-1 tvg-id="NBC.US Sports.Chicago.HDTV.(NBCSCHHD).us" tvg-name="WNBC (New York) NBC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png group-title="US Sports",NBC East(New York)
 https://v9.thetvapp.to/hls/WNBCDT1/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
 
 #EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-name="NFL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="US Sports",NFL Network
@@ -136,7 +136,7 @@ https://v9.thetvapp.to/hls/NFLRedZone/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2Z
 #EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="US Sports",NHL Network
 https://v9.thetvapp.to/hls/NHLNetwork/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
 
-#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="US Sports",SEC Network
+#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png" group-title="US Sports",SEC Network
 https://v9.thetvapp.to/hls/SECN/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="US Sports",Tennis Channel
