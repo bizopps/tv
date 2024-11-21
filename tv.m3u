@@ -188,13 +188,13 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="北京移动", CCTV-1
-http://39.134.134.87/000000000001/PLTV/88888888/224/3221236219/index.m3u8?HlsProfileId=
+http://39.134.134.87/000000000001/PLTV/88888888/224/3221248112/index.m3u8?HlsProfileId=
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="北京移动", CCTV-4
 http://39.134.134.87/000000000001/PLTV/88888888/224/3221236202/index.m3u8?HlsProfileId=
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="北京移动", CCTV-5
-http://39.134.134.87/000000000001/PLTV/88888888/224/3221235751/index.m3u8?HlsProfileId=
+http://39.134.134.87/000000000001/PLTV/88888888/224/3221280365/index.m3u8?HlsProfileId=
 
 #EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="北京移动", CCTV-5+
 http://39.134.134.87/000000000001/PLTV/88888888/224/3221248114/index.m3u8?HlsProfileId=
