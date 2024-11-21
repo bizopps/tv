@@ -94,58 +94,6 @@ http://streamsy.online:2999/coachj88/N93DPKS9pJ/299
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts 
 
 
-#EXTINF:-1 tvg-id="ACC.Network.HDTV.(ACCN).us" tvg-name="ACC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png" group-title="US Sports",ACC Network
-https://v9.thetvapp.to/hls/ACCNetwork/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-name="Big Ten Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png" group-title="US Sports",Big Ten Network
-https://v9.thetvapp.to/hls/BTN/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="CBS.US Sports.Network.HDTV.(CBSSD).us" tvg-name="CBS US Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="US Sports",CBS US Sports Network
-https://v9.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="US Sports",ESPN
-https://v9.thetvapp.to/hls/ESPN/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="US Sports",ESPN2
-https://v9.thetvapp.to/hls/ESPN2/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="ESPN.News.HDTV.(ESNEWSHD).us" tvg-name="ESPNews" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="US Sports",ESPNews
-https://v9.thetvapp.to/hls/ESPNews/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="US Sports",ESPNU
-https://v9.thetvapp.to/hls/ESPNU/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="Fox.US Sports.1.HDTV.(FS1HD).us" tvg-name="FOX US Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="US Sports",FOX US Sports 1
-https://v9.thetvapp.to/hls/FoxSports1/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="Fox.US Sports.2.HDTV.(FS2HD).us" tvg-name="FOX US Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59305_dark_360w_270h.png" group-title="US Sports",FOX US Sports 2
-https://v9.thetvapp.to/hls/FoxSports2/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="US Sports",MLB Network
-https://v9.thetvapp.to/hls/MLBNetwork/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="US Sports",NBA TV
-https://v9.thetvapp.to/hls/NBATV/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="NBC.US Sports.Chicago.HDTV.(NBCSCHHD).us" tvg-name="WNBC (New York) NBC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="US Sports",NBC East(New York)
-https://v9.thetvapp.to/hls/WNBCDT1/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-name="NFL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="US Sports",NFL Network
-https://v9.thetvapp.to/hls/NFLNetwork/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="NFL.RedZone.HDTV.(NFLRZD).us" tvg-name="NFL Red Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65025_dark_360w_270h.png" group-title="US Sports",NFL Red Zone
-https://v9.thetvapp.to/hls/NFLRedZone/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="US Sports",NHL Network
-https://v9.thetvapp.to/hls/NHLNetwork/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png" group-title="US Sports",SEC Network
-https://v9.thetvapp.to/hls/SECN/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="US Sports",Tennis Channel
-https://v9.thetvapp.to/hls/TennisChannel/index.m3u8?token=WXRkVUlJcllnU0I5cWlqWGF2ZTRDQ3hLWjhmclZzcnM5S1pMVW5pdg==
-
-
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 凤凰中文
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 
@@ -237,6 +185,28 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="山东移动IPv6", 东方卫视
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId=
+
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="北京移动", CCTV-1
+http://39.134.134.87/000000000001/PLTV/88888888/224/3221236219/index.m3u8?HlsProfileId=
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="北京移动", CCTV-4
+http://39.134.134.87/000000000001/PLTV/88888888/224/3221236202/index.m3u8?HlsProfileId=
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="北京移动", CCTV-5
+http://39.134.134.87/000000000001/PLTV/88888888/224/3221235751/index.m3u8?HlsProfileId=
+
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="北京移动", CCTV-5+
+http://39.134.134.87/000000000001/PLTV/88888888/224/3221248114/index.m3u8?HlsProfileId=
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="北京移动", CCTV-13
+http://39.134.134.87/000000000001/PLTV/88888888/224/3221284368/index.m3u8?HlsProfileId=
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="北京移动", CCTV-16
+http://39.134.134.87/000000000001/PLTV/88888888/224/3221285153/index.m3u8?HlsProfileId=
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="北京移动", 东方卫视
+http://39.134.134.87/000000000001/PLTV/88888888/224/3221279802/index.m3u8?HlsProfileId=
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="epg.pw", CCTV-1
