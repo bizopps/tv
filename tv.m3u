@@ -122,6 +122,17 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="咪咕视频 𝟜" tvg-name="咪咕视频 𝟜" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕视频 𝟜
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 p1
+https://stream1.freetv.fun/pptv1-1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 p2
+https://stream1.freetv.fun/pptv2-1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 p3
+https://stream1.freetv.fun/pptv3-1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 p4
+https://stream1.freetv.fun/pptv4-1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 p5
+https://stream1.freetv.fun/pptv10-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 1
 https://stream1.freetv.fun/ipv6-mi-gu-ti-yu-1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 2
@@ -136,6 +147,18 @@ https://stream1.freetv.fun/ipv6-mi-gu-ti-yu-30-1.m3u8
 https://stream1.freetv.fun/ipv6-mi-gu-ti-yu-31-1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 7
 https://stream1.freetv.fun/ipv6-mi-gu-ti-yu-32-1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 8
+https://stream1.freetv.fun/ipv6-mi-gu-ti-yu-34-1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 9
+https://stream1.freetv.fun/ipv6-mi-gu-ti-yu-36-1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 10
+https://stream1.freetv.fun/ipv6-mi-gu-ti-yu-41-1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 11
+https://stream1.freetv.fun/ipv6-mi-gu-ti-yu-42-1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 12
+https://stream1.freetv.fun/ipv6-mi-gu-ti-yu-28-2.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕直播 13
+https://stream1.freetv.fun/ipv6-mi-gu-ti-yu-31-2.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中国移动IPv6", CCTV-1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
