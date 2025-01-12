@@ -71,9 +71,9 @@ http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/83724
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/20179
 
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
-https://stream1.freetv.fun/world-poker-tour-4.m3u8
+http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
-https://stream1.freetv.fun/world-poker-tour-6.m3u8
+https://shls-masr2-enc.edgenextcdn.net:443/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
 #EXTINF:-1 tvg-id="UFC 24/7" tvg-name="UFC 24/7" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.pngg" group-title="SPORTS", UFC 24/7
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts 
