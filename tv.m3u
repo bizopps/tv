@@ -19,14 +19,16 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/2299459.ts
 #EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="SPORTS", Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
+#EXTINF:-1 tvg-id="SuperSport Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://assets.livednow.com/logo/SuperSport-Tennis.png" group-title="SPORTS", SuperSport Tennis
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/313
 #EXTINF:-1 tvg-id="SuperSport Premier League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="SPORTS", SuperSport Premier League
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47633.ts
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/300
 #EXTINF:-1 tvg-id="SuperSport Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="SPORTS", SuperSport Football
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47636.ts
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/307
 #EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://assets.livednow.com/logo/SuperSport-LaLiga.png" group-title="SPORTS", SuperSport LaLiga
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47638.ts 
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/304
 #EXTINF:-1 tvg-id="SuperSport Action" tvg-name="SuperSport Action" tvg-logo="https://assets.livednow.com/logo/SuperSport-Action.png" group-title="SPORTS", SuperSport Action
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47637.ts 
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312 
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN 𝟙
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/14197
@@ -73,7 +75,7 @@ http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/20179
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
-https://shls-masr2-enc.edgenextcdn.net:443/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+https://stream1.freetv.fun/poker-t-1.m3u8
 
 #EXTINF:-1 tvg-id="UFC 24/7" tvg-name="UFC 24/7" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.pngg" group-title="SPORTS", UFC 24/7
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts 
