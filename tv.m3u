@@ -34,6 +34,8 @@ http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/14197
 #EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS", ESPN 𝟚
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/2210 
+#EXTINF:-1 tvg-id="ESPN-Deportes" tvg-name="ESPN Deportes" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN Deportes
+http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="SPORTS", Fox Sports 𝟙
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/1846
@@ -72,8 +74,6 @@ http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/83724
 #EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="SPORTS", NHL Network
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/20179
 
-#EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
-http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
 https://stream1.freetv.fun/poker-t-1.m3u8
 
