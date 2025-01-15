@@ -29,6 +29,13 @@ http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/307
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/304
 #EXTINF:-1 tvg-id="SuperSport Action" tvg-name="SuperSport Action" tvg-logo="https://assets.livednow.com/logo/SuperSport-Action.png" group-title="SPORTS", SuperSport Action
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312 
+#EXTINF:-1 tvg-id="Variety-1" tvg-name="SuperSport Variety 1" tvg-logo="https://assets.livednow.com/logo/Variety-1.png" group-title="SPORTS", SuperSport Variety 1
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/314
+#EXTINF:-1 tvg-id="Variety-2" tvg-name="SuperSport Variety 2" tvg-logo="https://assets.livednow.com/logo/Variety-2.png" group-title="SPORTS", SuperSport Variety 2
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/315
+#EXTINF:-1 tvg-id="Variety-3" tvg-name="SuperSport Variety 3" tvg-logo="https://assets.livednow.com/logo/Variety-3.png" group-title="SPORTS", SuperSport Variety 3
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/316
+
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN 𝟙
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/14197
@@ -81,7 +88,7 @@ https://stream1.freetv.fun/poker-t-1.m3u8
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts 
 
 
-#EXTINF:-1 tvg-id="鳳凰衛視中文" tvg-name="鳳凰衛視中文" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png" group-title="NEWS", 鳳凰衛視中文
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610235535236636_79.png" group-title="NEWS", 鳳凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -182,9 +189,9 @@ https://epg.pw/stream/607c5648b5a826285f1e94ceab76066c767e2ba5e1623b753a6ab2f4e3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="epg.pw", CCTV-4
 https://epg.pw/stream/1927200d910f3087e569a0050d84b50158d3c1e2d928ad116119bb9eafe8ac9f.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="epg.pw", CCTV-5
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/314
+https://epg.pw/stream/b786ec1800a5643b2d5d40858739023ccedfe27bc149fa6eee46de30f0897b5f.m3u8
 #EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="epg.pw", CCTV-5+
-http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv5p
+https://epg.pw/stream/42fec7509fc70842d130f32c3535037f901381f57549e4122369e3b2d02d1d1c.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="epg.pw", CCTV-13
 https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="epg.pw", CCTV-16
