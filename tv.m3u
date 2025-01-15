@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
 http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
@@ -35,6 +35,8 @@ http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/314
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/315
 #EXTINF:-1 tvg-id="Variety-3" tvg-name="Variety 3" tvg-logo="https://assets.livednow.com/logo/Variety-3.png" group-title="SPORTS", Variety 3
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/316
+#EXTINF:-1 tvg-id="SuperSport-Grandstand" tvg-name="SuperSport Grandstand" tvg-logo="https://img.logo-cdn.cc/supersportgrandstand.png" group-title="SPORTS", SuperSport Grandstand
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/305
 
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN 𝟙
