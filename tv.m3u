@@ -28,9 +28,6 @@ http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/62
 #EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg" group-title="SPORTS", Sky Sports Premier League
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/7
 
-#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png" group-title="SPORTS", Tennis
-https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
-
 #EXTINF:-1 tvg-id="SuperSport-Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/supersport-tennis.png" group-title="SPORTS", SuperSport Tennis
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/313
 #EXTINF:-1 tvg-id="SuperSport-Premier-League" tvg-name="SuperSport Premier League" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/x5ja5w1659624783.png" group-title="SPORTS", SuperSport Premier League
@@ -53,15 +50,18 @@ http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/317
 #EXTINF:-1 tvg-id="Sportsnet" tvg-name="Sportsnet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQ5qJFErp8HHqnV1OizJiJkfsMaTorLRgl-867YQyik1aXLJrpW3nR-ZZF8-GjH48u7xmE8z6LgeSEUty3n87JcoR5_ejihjUHgikkRZ9" group-title="SPORTS", Sportsnet
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/315
 
+#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png" group-title="SPORTS", Tennis
+https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/xs7-c-u-j2d-j-h-r-i6s-zgr7-dyp-n-s-a-mn-z7-kpq-hf6y-wwvx-i.png" group-title="SPORTS", ESPN 𝟙
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/24
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/14197
 #EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/512px--e-s-p-n2_logo.svg.png" group-title="SPORTS", ESPN 𝟚
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/22
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/2210 
 #EXTINF:-1 tvg-id="ESPN-Deportes" tvg-name="ESPN Deportes" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN Deportes
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/y7-y-yvh-ej8piz6c2-ium-vye-z-q77au-v4-p-do-h-s-nen-d-qr.png" group-title="SPORTS", Fox Sports 𝟙
-http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/1846
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/6-ff-p-flc-r8kqe-k-o-n6-x-v0-cjr-mfei5gtm-e3-wj-x7e-vk-a.png" group-title="SPORTS", Fox Sports 𝟚
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/1847
 
