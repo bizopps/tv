@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
-http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
+https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS", TNT Sport 𝟚
-http://kstv.us:8080/live/tH300gvHff/8606073792/47851.ts
+https://7pal.short.gy/tntspts2
 #EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT SPORTS 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="SPORTS", TNT Sport 𝟛
-http://kstv.us:8080/live/tH300gvHff/8606073792/47852.ts
+https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS", TNT Sport 𝟜
-http://kstv.us:8080/live/tH300gvHff/8606073792/47853.ts
+https://7pal.short.gy/tntspts4
 
 #EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png" group-title="SPORTS", Sky Sports Football
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7336/index.m3u8
+https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg" group-title="SPORTS", Sky Sports Premier League
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
+https://7pal.short.gy/ssportspl
 
 #EXTINF:-1 tvg-id="SuperSport-Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/supersport-tennis.png" group-title="SPORTS", SuperSport Tennis
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/313
