@@ -14,20 +14,6 @@ https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg" group-title="SPORTS", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/1
-#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS", TNT Sport 𝟚
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/2
-#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT SPORTS 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="SPORTS", TNT Sport 𝟛
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/73
-#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS", TNT Sport 𝟜
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/10
-
-#EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png" group-title="SPORTS", Sky Sports Football
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/62
-#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg" group-title="SPORTS", Sky Sports Premier League
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/7
-
 #EXTINF:-1 tvg-id="SuperSport-Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/supersport-tennis.png" group-title="SPORTS", SuperSport Tennis
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/313
 #EXTINF:-1 tvg-id="SuperSport-Premier-League" tvg-name="SuperSport Premier League" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/x5ja5w1659624783.png" group-title="SPORTS", SuperSport Premier League
@@ -52,6 +38,20 @@ http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/315
 
 #EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png" group-title="SPORTS", Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
+
+#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/1
+#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS", TNT Sport 𝟚
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/2
+#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT SPORTS 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="SPORTS", TNT Sport 𝟛
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/73
+#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS", TNT Sport 𝟜
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/10
+
+#EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png" group-title="SPORTS", Sky Sports Football
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/62
+#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg" group-title="SPORTS", Sky Sports Premier League
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/7
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/xs7-c-u-j2d-j-h-r-i6s-zgr7-dyp-n-s-a-mn-z7-kpq-hf6y-wwvx-i.png" group-title="SPORTS", ESPN 𝟙
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/14197
@@ -115,19 +115,17 @@ http://138.2.110.209:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 http://138.2.110.209:35455/itv/6000000001000003639.m3u8?cdn=ystenlive
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央卫视", CCTV 1
-http://138.2.110.209:35455/gaoma/cctv1.m3u8
+http://iptv.0564.org:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央卫视", CCTV 4
-http://138.2.110.209:35455/gaoma/cctv4.m3u8
+http://iptv.0564.org:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央卫视", CCTV 5
-http://138.2.110.209:35455/gaoma/cctv5.m3u8
+http://iptv.0564.org:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央卫视", CCTV 5+
-http://138.2.110.209:35455/gaoma/cctv5p.m3u8
+http://iptv.0564.org:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央卫视", CCTV 13
-http://138.2.110.209:35455/gaoma/cctv13.m3u8
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476899.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央卫视", CCTV 16
-http://138.2.110.209:35455/gaoma/cctv16.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="央卫视", 东方卫视
-http://138.2.110.209:35455/itv/5000000004000014098.m3u8?cdn=bestzb
+http://iptv.0564.org:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 1
