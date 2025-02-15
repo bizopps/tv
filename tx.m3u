@@ -38,7 +38,7 @@ http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47724.ts
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47639.ts
 
 #EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/y7-y-yvh-ej8piz6c2-ium-vye-z-q77au-v4-p-do-h-s-nen-d-qr.png" group-title="SPORTS", Fox Sports 𝟙
-http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/1846
+https://stream1.freetv.fun/8ad045860c27937ea51c9e445ee19109fe1cc6055d76af17b4dffd7931a946b8.m3u8
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORTS", TSN 1
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47440 
@@ -51,6 +51,9 @@ http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47446
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORTS", TSN 5
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57295 
 
+#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/1200px--n-b-a_-t-v.svg.png" group-title="SPORTS", NBA TV
+https://stream1.freetv.fun/a11fb2e1749debb06c0d3402a7fb5eb4d956a02d26a71255647760762f03a48a.m3u8
+
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
 https://stream1.freetv.fun/poker-t-1.m3u8
 
@@ -60,9 +63,6 @@ http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts
 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 凤凰中文
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8 
-
-#EXTINF:-1 tvg-id="CBC News" tvg-name="CBC News" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001937082113_33.png" group-title="NEWS", CBC News
-https://stream1.freetv.fun/cbc-news-1.m3u8
 
 #EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cp24.png" group-title="NEWS", CP24
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57257
