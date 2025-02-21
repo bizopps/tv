@@ -82,12 +82,14 @@ http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/1200px--n-b-a_-t-v.svg.png" group-title="SPORTS", NBA TV
 https://stream1.freetv.fun/nba-tv-7.m3u8
 #EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/1200px--m-l-b-network-logo.svg.png" group-title="SPORTS", MLB Network
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/145 
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/m-g3-iq91-ukrb-cn24-w-zuxpr-j-mm-b9tv-m7-hb-b3-v9-gw95.svg" group-title="SPORTS", NFL Network
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/83724 
 #EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/8z795-gbo1duqut1-f32-ga-ip-b-a8-urzp90c-g-u-dm-r-c2-o.svg" group-title="SPORTS", NHL Network
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/20179
 
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 凤凰中文
+https://k44991.kylintv.tv/live/pxna_iphone.m3u8 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 鳳凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
 
