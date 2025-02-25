@@ -14,6 +14,12 @@ https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg" group-title="SPORTS", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
 
+#EXTINF:-1 tvg-id="Premier-Sports-1" tvg-name="Premier Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441" group-title="SPORTS", Premier Sports 1
+https://azonew.iosplayer.ru/azo/newpremier1uk/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premier-Sports-2" tvg-name="Premier Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653" group-title="SPORTS", Premier Sports 2
+https://azonew.iosplayer.ru/azo/newpremier2uk/mono.m3u8
+
 #EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png" group-title="SPORTS", Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
@@ -74,8 +80,6 @@ http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/83724
 #EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/8z795-gbo1duqut1-f32-ga-ip-b-a8-urzp90c-g-u-dm-r-c2-o.svg" group-title="SPORTS", NHL Network
 http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/20179
 
-#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 鳳凰中文
-https://stream1.freetv.fun/sport-tv-2-1.ctv
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 凤凰中文
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 鳳凰中文
