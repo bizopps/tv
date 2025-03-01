@@ -72,3 +72,8 @@ http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57435
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57306 
 
 
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-English-2.png" group-title="Now", beIN SPORTS 1
+https://eventcdn02-nowe.akamaized.net/hls/CH638/index.m3u8 
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-English-2.png" group-title="Now", beIN SPORTS 2
+https://eventcdn02-nowe.akamaized.net/hls/CH639/index.m3u8
