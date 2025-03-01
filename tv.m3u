@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
 https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS", TNT SPORTS 2
+#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS", TNT Sport 𝟚
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT SPORTS 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="SPORTS", TNT SPORTS 3
+#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT SPORTS 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="SPORTS", TNT Sport 𝟛
 https://7pal.short.gy/tntspts3
-#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS", TNT SPORTS 4
+#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS", TNT Sport 𝟜
 https://7pal.short.gy/tntspts4
 
 #EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="SPORTS", Sky Sports Football
@@ -16,9 +16,9 @@ https://7pal.short.gy/ssportsfb
 https://7pal.short.gy/ssportspl
 
 #EXTINF:-1 tvg-id="Premier-Sports-1" tvg-name="Premier Sports 1" tvg-logo="https://assets.livednow.com/logo/Premier-Sports-1.png" group-title="SPORTS", Premier Sports 𝟙
-https://azonew.iosplayer.ru/azo/newpremier1uk/mono.m3u8
+https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="Premier-Sports-2" tvg-name="Premier Sports 2" tvg-logo="https://assets.livednow.com/logo/Premier-Sports-2.png" group-title="SPORTS", Premier Sports 𝟚
-https://azonew.iosplayer.ru/azo/newpremier2uk/mono.m3u8
+https://7pal.short.gy/prsport2
 
 #EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="SPORTS", Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8

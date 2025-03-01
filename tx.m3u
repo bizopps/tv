@@ -58,7 +58,7 @@ https://stream1.freetv.fun/a11fb2e1749debb06c0d3402a7fb5eb4d956a02d26a7125564776
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
 https://stream1.freetv.fun/poker-t-1.m3u8
 
-#EXTINF:-1 tvg-id="UFC 24/7" tvg-name="UFC 24/7" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.pngg" group-title="SPORTS", UFC 24/7
+#EXTINF:-1 tvg-id="UFC 24/7" tvg-name="UFC 24/7" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="SPORTS", UFC 24/7
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts 
 
 
@@ -73,3 +73,118 @@ http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57435
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57306 
 
 
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="Now", HBO
+https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
+
+#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="" group-title="Now", 爆谷台
+https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
+
+#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="" group-title="Now", 爆谷星影台
+https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
+
+#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="" group-title="Now", 直播台
+https://dko29we9nm1rd.cloudfront.net/hls/CH331/index.m3u8
+
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="" group-title="Now", 新聞台
+https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
+
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="" group-title="Now", 財經台
+https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Now Sports 英超1台" tvg-name="Now Sports 英超1台" tvg-logo="" group-title="Now", 英超1台
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-name="Now Sports 英超2台" tvg-logo="" group-title="Now", 英超2台
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 英超3台" tvg-name="Now Sports 英超3台" tvg-logo="" group-title="Now", 英超3台
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 英超4台" tvg-name="Now Sports 英超4台" tvg-logo="" group-title="Now", 英超4台
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 英超5台" tvg-name="Now Sports 英超5台" tvg-logo="" group-title="Now", 英超5台
+https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 英超6台" tvg-name="Now Sports 英超6台" tvg-logo="" group-title="Now", 英超6台
+https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Now Sports 2" tvg-name="Now Sports 2" tvg-logo="" group-title="Now", Sports 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 3" tvg-name="Now Sports 3" tvg-logo="" group-title="Now", Sports 3
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 4" tvg-name="Now Sports 4" tvg-logo="" group-title="Now", Sports 4
+https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 5" tvg-name="Now Sports 5" tvg-logo="" group-title="Now", Sports 5
+https://dko29we9nm1rd.cloudfront.net/hls/CH635/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 6" tvg-name="Now Sports 6" tvg-logo="" group-title="Now", Sports 6
+https://dko29we9nm1rd.cloudfront.net/hls/CH636/index.m3u8
+#EXTINF:-1 tvg-id="Now Sports 7" tvg-name="Now Sports 7" tvg-logo="" group-title="Now", Sports 7
+https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Bein-Sports-English-1" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="Now", beIN SPORTS 𝟙
+https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8 
+#EXTINF:-1 tvg-id="Bein-Sports-English-2" tvg-name="beIN SPORTS 2" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-English-2.png" group-title="Now", beIN SPORTS 𝟚
+https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
+
+#EXTINF:-1 tvg-id="Now Sports 641" tvg-name="Now Sports 641" tvg-logo="" group-title="Now", Sports 641
+https://dko29we9nm1rd.cloudfront.net/hls/CH641/index.m3u8
+
+#EXTINF:-1 tvg-id="NBATV" tvg-name="NBATV" tvg-logo="" group-title="Now", NBATV
+https://dko29we9nm1rd.cloudfront.net/hls/CH642/index.m3u8
+
+#EXTINF:-1 tvg-id="Now Sports 651" tvg-name="Now Sports 651" tvg-logo="" group-title="Now", Sports 651
+https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
+
+#EXTINF:-1 tvg-id="Now Sports 652" tvg-name="Now Sports 652" tvg-logo="" group-title="Now", Sports 652
+https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
+
+#EXTINF:-1 tvg-id="Premier Sports" tvg-name="Premier Sports" tvg-logo="" group-title="Now", Premier Sports
+https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
+
+#EXTINF:-1 tvg-id="Now Sports PLUS" tvg-name="Now Sports PLUS" tvg-logo="" group-title="Now", Sports PLUS
+https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
+
+
+
+#EXTINF:-1, 鳳凰卫视 10
+https://stream1.freetv.fun/feng-huang-wei-shi-10.m3u8
+#EXTINF:-1, 鳳凰卫视 4
+https://stream1.freetv.fun/feng-huang-wei-shi-4.m3u8
+
+#EXTINF:-1, 鳳凰中文 10
+https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
+#EXTINF:-1, 鳳凰中文 11
+https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
+#EXTINF:-1, 鳳凰中文 15
+https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
+#EXTINF:-1, 鳳凰中文 3
+https://stream1.freetv.fun/feng-huang-zhong-wen-3.m3u8
+#EXTINF:-1, 鳳凰中文 6
+https://stream1.freetv.fun/feng-huang-zhong-wen-6.m3u8
+#EXTINF:-1, 鳳凰中文 8
+https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
+#EXTINF:-1, 鳳凰中文 9
+https://stream1.freetv.fun/feng-huang-zhong-wen-9.m3u8
+
+#EXTINF:-1, 鳳凰卫视 1
+https://stream1.freetv.fun/feng-huang-wei-shi-1.ctv
+#EXTINF:-1, 鳳凰卫视 11
+https://stream1.freetv.fun/feng-huang-wei-shi-11.ctv
+#EXTINF:-1, 鳳凰卫视 2
+https://stream1.freetv.fun/feng-huang-wei-shi-2.ctv
+#EXTINF:-1, 鳳凰卫视 3
+https://stream1.freetv.fun/feng-huang-wei-shi-3.ctv
+#EXTINF:-1, 鳳凰卫视 5
+https://stream1.freetv.fun/feng-huang-wei-shi-5.ctv
+#EXTINF:-1, 鳳凰卫视 8
+https://stream1.freetv.fun/feng-huang-wei-shi-8.ctv
+#EXTINF:-1, 鳳凰卫视 9
+https://stream1.freetv.fun/feng-huang-wei-shi-9.ctv
+
+#EXTINF:-1, 鳳凰中文 13
+https://stream1.freetv.fun/feng-huang-zhong-wen-13.ctv
+#EXTINF:-1, 鳳凰中文 14
+https://stream1.freetv.fun/feng-huang-zhong-wen-14.ctv
+#EXTINF:-1, 鳳凰中文 16
+https://stream1.freetv.fun/feng-huang-zhong-wen-16.ctv
+#EXTINF:-1, 鳳凰中文 9
+https://stream1.freetv.fun/feng-huang-zhong-wen-7.ctv
