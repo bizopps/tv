@@ -63,7 +63,7 @@ http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts
 
 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="NEWS", 鳳凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
+https://stream1.freetv.fun/feng-huang-wei-shi-3.ctv
 
 #EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cp24.png" group-title="NEWS", CP24
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57257
@@ -145,46 +145,36 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
 
 
 
-#EXTINF:-1, 鳳凰卫视 10
-https://stream1.freetv.fun/feng-huang-wei-shi-10.m3u8
-#EXTINF:-1, 鳳凰卫视 4
-https://stream1.freetv.fun/feng-huang-wei-shi-4.m3u8
+#EXTINF:-1, MLB Network 1
+https://stream1.freetv.fun/mlb-network-2.ctv
+#EXTINF:-1, MLB Network 2
+https://stream1.freetv.fun/mlb-network-5.m3u8
 
-#EXTINF:-1, 鳳凰中文 10
-https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
-#EXTINF:-1, 鳳凰中文 11
-https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
-#EXTINF:-1, 鳳凰中文 15
-https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
-#EXTINF:-1, 鳳凰中文 3
-https://stream1.freetv.fun/feng-huang-zhong-wen-3.m3u8
-#EXTINF:-1, 鳳凰中文 6
-https://stream1.freetv.fun/feng-huang-zhong-wen-6.m3u8
-#EXTINF:-1, 鳳凰中文 8
-https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
-#EXTINF:-1, 鳳凰中文 9
-https://stream1.freetv.fun/feng-huang-zhong-wen-9.m3u8
 
-#EXTINF:-1, 鳳凰卫视 1
-https://stream1.freetv.fun/feng-huang-wei-shi-1.ctv
-#EXTINF:-1, 鳳凰卫视 11
-https://stream1.freetv.fun/feng-huang-wei-shi-11.ctv
-#EXTINF:-1, 鳳凰卫视 2
-https://stream1.freetv.fun/feng-huang-wei-shi-2.ctv
-#EXTINF:-1, 鳳凰卫视 3
-https://stream1.freetv.fun/feng-huang-wei-shi-3.ctv
-#EXTINF:-1, 鳳凰卫视 5
-https://stream1.freetv.fun/feng-huang-wei-shi-5.ctv
-#EXTINF:-1, 鳳凰卫视 8
-https://stream1.freetv.fun/feng-huang-wei-shi-8.ctv
-#EXTINF:-1, 鳳凰卫视 9
-https://stream1.freetv.fun/feng-huang-wei-shi-9.ctv
+#EXTINF:-1, SuperSport Cricket 1
+https://stream1.freetv.fun/supersport-1.ctv
 
-#EXTINF:-1, 鳳凰中文 13
-https://stream1.freetv.fun/feng-huang-zhong-wen-13.ctv
-#EXTINF:-1, 鳳凰中文 14
-https://stream1.freetv.fun/feng-huang-zhong-wen-14.ctv
-#EXTINF:-1, 鳳凰中文 16
-https://stream1.freetv.fun/feng-huang-zhong-wen-16.ctv
-#EXTINF:-1, 鳳凰中文 9
-https://stream1.freetv.fun/feng-huang-zhong-wen-7.ctv
+#EXTINF:-1, SuperSport Cricket 2
+https://stream1.freetv.fun/supersport-3.ctv
+
+#EXTINF:-1, SuperSport Grandstand 1
+https://stream1.freetv.fun/supersport-5.ctv
+
+#EXTINF:-1, SuperSport Grandstand 2
+https://stream1.freetv.fun/supersport-7.ctv
+
+#EXTINF:-1, SuperSport Motorsport[geo-blocked]
+https://stream1.freetv.fun/motorsport-fr-1.m3u8
+
+#EXTINF:-1, World Poker Tour 1
+https://stream1.freetv.fun/world-poker-tour-3.m3u8
+
+#EXTINF:-1, World Poker Tour 2
+https://stream1.freetv.fun/world-poker-tour-6.m3u8
+
+#EXTINF:-1, World Poker Tour 3
+https://stream1.freetv.fun/world-poker-tour-4.m3u8
+
+#EXTINF:-1, World Poker Tour[geo-blocked],
+https://stream1.freetv.fun/ch-ng-world-poker-tour-1.m3u8
+
