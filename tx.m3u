@@ -38,9 +38,6 @@ http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47724.ts
 #EXTINF:-1 tvg-id="SuperSport-PSL" tvg-name="SuperSport PSL" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png" group-title="SPORTS", SuperSport PSL
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47639.ts
 
-#EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="SPORTS", Fox Sports 𝟙
-https://stream1.freetv.fun/8ad045860c27937ea51c9e445ee19109fe1cc6055d76af17b4dffd7931a946b8.m3u8
-
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://docdog.top/logo/countries/canada/tsn1.png" group-title="SPORTS", TSN 1
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47440 
 #EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://docdog.top/logo/countries/canada/tsn2.png" group-title="SPORTS", TSN 2
@@ -56,7 +53,7 @@ http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57295
 https://stream1.freetv.fun/a11fb2e1749debb06c0d3402a7fb5eb4d956a02d26a71255647760762f03a48a.m3u8
 
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
-https://stream1.freetv.fun/poker-t-1.m3u8
+https://stream1.freetv.fun/world-poker-tour-3.m3u8
 
 #EXTINF:-1 tvg-id="UFC 24/7" tvg-name="UFC 24/7" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="SPORTS", UFC 24/7
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts 
@@ -144,37 +141,24 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
 https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
 
 
+#EXTINF:-1, sky-sport-premier-league
+https://stream1.freetv.fun/sky-sport-premier-league-1.ctv
 
-#EXTINF:-1, MLB Network 1
-https://stream1.freetv.fun/mlb-network-2.ctv
-#EXTINF:-1, MLB Network 2
-https://stream1.freetv.fun/mlb-network-5.m3u8
+#EXTINF:-1, Premiere Sports HD UK
+https://stream1.freetv.fun/premier-sports-1-vip-uk-1.m3u8
 
+#EXTINF:-1, Sky Sports Premier League
+https://stream1.freetv.fun/now-sports-premier-league1-1.ctv
 
-#EXTINF:-1, SuperSport Cricket 1
-https://stream1.freetv.fun/supersport-1.ctv
+#EXTINF:-1, Sky Sports Tennis
+https://stream1.freetv.fun/ocko-1.m3u8
 
-#EXTINF:-1, SuperSport Cricket 2
-https://stream1.freetv.fun/supersport-3.ctv
+#EXTINF:-1, Fox Sports 1
+https://stream1.freetv.fun/fox-sports-1-2.m3u8
 
-#EXTINF:-1, SuperSport Grandstand 1
-https://stream1.freetv.fun/supersport-5.ctv
+#EXTINF:-1, FOX SPORTS[geo-blocked]
+https://stream1.freetv.fun/fox-sports-1.m3u8
 
-#EXTINF:-1, SuperSport Grandstand 2
-https://stream1.freetv.fun/supersport-7.ctv
-
-#EXTINF:-1, SuperSport Motorsport[geo-blocked]
-https://stream1.freetv.fun/motorsport-fr-1.m3u8
-
-#EXTINF:-1, World Poker Tour 1
-https://stream1.freetv.fun/world-poker-tour-3.m3u8
-
-#EXTINF:-1, World Poker Tour 2
-https://stream1.freetv.fun/world-poker-tour-6.m3u8
-
-#EXTINF:-1, World Poker Tour 3
-https://stream1.freetv.fun/world-poker-tour-4.m3u8
-
-#EXTINF:-1, World Poker Tour[geo-blocked],
-https://stream1.freetv.fun/ch-ng-world-poker-tour-1.m3u8
+#EXTINF:-1, FOX Sports 3 HD
+https://stream1.freetv.fun/sports-3-1.m3u8
 
