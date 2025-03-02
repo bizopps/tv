@@ -57,28 +57,26 @@ http://212.102.60.231/TSN_4/index.m3u8
 http://212.102.60.231/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN 𝟙
-http://fl1.moveonjoy.com/ESPN/index.m3u8
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/14197
 #EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS", ESPN 𝟚
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/2210 
 #EXTINF:-1 tvg-id="ESPN-Deportes" tvg-name="ESPN Deportes" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN Deportes
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="SPORTS", Fox Sports 𝟙
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/1846 
 #EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="SPORTS", Fox Sports 𝟚
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-
-#EXTINF:-1 tvg-id="CBS-Sports-Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="SPORTS", CBS Sports Network
-https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/1847
 
 #EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="SPORTS", NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+https://stream1.freetv.fun/a11fb2e1749debb06c0d3402a7fb5eb4d956a02d26a71255647760762f03a48a.m3u8
 #EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="SPORTS", NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/83724 
 #EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="SPORTS", NHL Network
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/20179
 #EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="SPORTS", MLB Network
 https://stream1.freetv.fun/mlb-network-2.ctv
+
 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="NEWS", 鳳凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
