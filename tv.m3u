@@ -38,7 +38,7 @@ https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportVariety1/mono.m3u8
 #EXTINF:-1 tvg-id="Variety-3" tvg-name="Variety 3" tvg-logo="https://assets.livednow.com/logo/Variety-3.png" group-title="SPORTS", Variety 𝟛
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportVariety3/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport-Grandstand" tvg-name="SuperSport Grandstand" tvg-logo="https://img.logo-cdn.cc/supersportgrandstand.png" group-title="SPORTS", SuperSport Grandstand
-https://stream1.freetv.fun/supersport-5.ctv
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSupersportGrandstand/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport-PSL" tvg-name="SuperSport PSL" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png" group-title="SPORTS", SuperSport PSL
 https://wikinew.iosplayer.ru/wiki/eplayerSuperSportPSL/mono.m3u8
 
@@ -72,7 +72,7 @@ http://212.102.60.231/TSN_4/index.m3u8
 http://212.102.60.231/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="SPORTS", NBA TV
-https://stream1.freetv.fun/nba-tv-7.m3u8
+https://stream1.freetv.fun/a11fb2e1749debb06c0d3402a7fb5eb4d956a02d26a71255647760762f03a48a.m3u8
 #EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="SPORTS", MLB Network
 https://stream1.freetv.fun/mlb-network-2.ctv
 #EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="SPORTS", NFL Network

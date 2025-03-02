@@ -50,7 +50,11 @@ http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47446
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57295 
 
 #EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="SPORTS", NBA TV
-https://stream1.freetv.fun/a11fb2e1749debb06c0d3402a7fb5eb4d956a02d26a71255647760762f03a48a.m3u8
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="SPORTS", NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="SPORTS", NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
 https://stream1.freetv.fun/world-poker-tour-3.m3u8
@@ -141,24 +145,24 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
 https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
 
 
-#EXTINF:-1, sky-sport-premier-league
+#EXTINF:-1 group-title="其他", sky-sport-premier-league
 https://stream1.freetv.fun/sky-sport-premier-league-1.ctv
 
-#EXTINF:-1, Premiere Sports HD UK
+#EXTINF:-1 group-title="其他", Premiere Sports HD UK
 https://stream1.freetv.fun/premier-sports-1-vip-uk-1.m3u8
 
-#EXTINF:-1, Sky Sports Premier League
+#EXTINF:-1 group-title="其他", Sky Sports Premier League
 https://stream1.freetv.fun/now-sports-premier-league1-1.ctv
 
-#EXTINF:-1, Sky Sports Tennis
+#EXTINF:-1 group-title="其他", Sky Sports Tennis
 https://stream1.freetv.fun/ocko-1.m3u8
 
-#EXTINF:-1, Fox Sports 1
+#EXTINF:-1 group-title="其他", Fox Sports 1
 https://stream1.freetv.fun/fox-sports-1-2.m3u8
 
-#EXTINF:-1, FOX SPORTS[geo-blocked]
+#EXTINF:-1 group-title="其他", FOX SPORTS[geo-blocked]
 https://stream1.freetv.fun/fox-sports-1.m3u8
 
-#EXTINF:-1, FOX Sports 3 HD
+#EXTINF:-1 group-title="其他", FOX Sports 3 HD
 https://stream1.freetv.fun/sports-3-1.m3u8
 
