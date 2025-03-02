@@ -49,12 +49,22 @@ http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47446
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://docdog.top/logo/countries/canada/tsn5.png" group-title="SPORTS", TSN 5
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57295 
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN 𝟙
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/14197
+#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS", ESPN 𝟚
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/2210 
+
+#EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="SPORTS", Fox Sports 𝟙
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/1846 
+#EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="SPORTS", Fox Sports 𝟚
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/1847
+
 #EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="SPORTS", NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+https://stream1.freetv.fun/a11fb2e1749debb06c0d3402a7fb5eb4d956a02d26a71255647760762f03a48a.m3u8
 #EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="SPORTS", NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/83724 
 #EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="SPORTS", NHL Network
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+http://cord-cutter.net:8080/4YYrcEg/Z8bmyZb/20179
 
 #EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
 https://stream1.freetv.fun/world-poker-tour-3.m3u8
@@ -148,21 +158,20 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
 #EXTINF:-1 group-title="其他", sky-sport-premier-league
 https://stream1.freetv.fun/sky-sport-premier-league-1.ctv
 
-#EXTINF:-1 group-title="其他", Premiere Sports HD UK
-https://stream1.freetv.fun/premier-sports-1-vip-uk-1.m3u8
+#EXTINF:-1 group-title="其他", SuperSports Action HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312
 
-#EXTINF:-1 group-title="其他", Sky Sports Premier League
-https://stream1.freetv.fun/now-sports-premier-league1-1.ctv
-
-#EXTINF:-1 group-title="其他", Sky Sports Tennis
-https://stream1.freetv.fun/ocko-1.m3u8
-
-#EXTINF:-1 group-title="其他", Fox Sports 1
-https://stream1.freetv.fun/fox-sports-1-2.m3u8
-
-#EXTINF:-1 group-title="其他", FOX SPORTS[geo-blocked]
-https://stream1.freetv.fun/fox-sports-1.m3u8
-
-#EXTINF:-1 group-title="其他", FOX Sports 3 HD
-https://stream1.freetv.fun/sports-3-1.m3u8
-
+#EXTINF:-1 group-title="其他", CCTV-4
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="其他", CCTV-5
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
+#EXTINF:-1 group-title="其他", CCTV-13
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="其他", CCTV-16
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
+#EXTINF:-1 group-title="其他", CCTV-4
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
+#EXTINF:-1 group-title="其他", CCTV-13
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226446/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EU-IJJyzlYeEElWsacI4JKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMT7DWkynQtRPzNDJCOY_C_%2CEND
+#EXTINF:-1 group-title="其他", CCTV-16
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
