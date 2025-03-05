@@ -158,6 +158,12 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
 https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
 
 
+#EXTINF:-1 group-title="其他", eromania 4k
+https://epg.pw/stream/471d2c99f6e4ebd660ac257393d2d5f749bffda8cb45cc6d42a7f2ac50fd4bdf.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+
 #EXTINF:-1 group-title="其他", sky-sport-premier-league
 https://stream1.freetv.fun/sky-sport-premier-league-1.ctv
 
