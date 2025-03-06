@@ -174,6 +174,12 @@ https://epg.pw/stream/4d5449c8fe787897c9d3d28c3eb9fc309c7a012ca19f3cc97a579dad2c
 https://epg.pw/stream/6d6f6f803e2f0e40dfe9f22fd1cd8884f09ac3bfc3070ffe612716bd8239c4e0.m3u8
 
 
+#EXTINF:-1 group-title="其他", CCTV1
+http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/101
+
+#EXTINF:-1 group-title="其他", CCTV2
+http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/817
+
 #EXTINF:-1 group-title="其他", SuperSports Action HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312
 
