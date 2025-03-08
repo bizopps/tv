@@ -100,6 +100,7 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="IPv6", 东方卫视
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
 
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央卫视", CCTV 1
 http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/101
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央卫视", CCTV 4
