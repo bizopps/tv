@@ -192,20 +192,4 @@ http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312
 #EXTINF:-1 group-title="其他", CCTV-5
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 
-#EXTINF:-1 group-title="其他", CCTV-1
-http://120.234.5.29:6000/udp/239.10.0.202:1025
 
-#EXTINF:-1 group-title="其他", CCTV-5
-http://zjzcf.synology.me:35455/gaoma/cctv5.m3u8
-
-#EXTINF:-1 group-title="其他", CCTV5+
-https://mytv.cdn.com.mp/cctv5plus/index.m3u8
-
-#EXTINF:-1 group-title="其他", 凤凰中文
-https://live.tvfix.org/live/fhzw/index.m3u8
-
-#EXTINF:-1 group-title="其他", DistroTVUS_135913
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23196&ads.content_duration=18000&ads.episode_id=135913&ads.show_id=5235&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CEntertainment%2CAsian&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=pa&ads.showtitle=Punjabi%20Hits&ads.episodetitle=Punjabi%20Hits&ads.keywords=Punjabi%20Music%2CLatest%20Punjabi%20Songs%2CPunjabi%20Songs%2CTrending%20Punjabi%20Songs&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-
-#EXTINF:-1 group-title="其他", ITV 1
-tvbus://35e7RP3TaTPEC97SuJk6hRbE8BWoAUQ1fXT4MyoPwSqMrHpqiF
