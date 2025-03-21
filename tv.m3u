@@ -26,26 +26,27 @@ https://7pal.short.gy/prsport2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-1 tvg-id="SuperSport-Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://assets.livednow.com/logo/SuperSport-Tennis.png" group-title="SPORTS", SuperSport Tennis
-https://wikinew.iosplayer.ru/wiki/eplayerSuperSportTennis/mono.m3u8
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47721.ts
 #EXTINF:-1 tvg-id="SuperSport-Premier-League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="SPORTS", SuperSport Premier League
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportPL/mono.m3u8
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47633.ts
 #EXTINF:-1 tvg-id="SuperSport-Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="SPORTS", SuperSport Football
-https://top2new.iosplayer.ru/top2/eplayerSuperSportFootball/mono.m3u8
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47636.ts 
 #EXTINF:-1 tvg-id="SuperSport-LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://assets.livednow.com/logo/SuperSport-LaLiga.png" group-title="SPORTS", SuperSport LaLiga
-https://wikinew.iosplayer.ru/wiki/eplayerSuperSportLaLiga/mono.m3u8
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47638.ts
 #EXTINF:-1 tvg-id="SuperSport-Action" tvg-name="SuperSport Action" tvg-logo="https://assets.livednow.com/logo/SuperSport-Action.png" group-title="SPORTS", SuperSport Action
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportAction/mono.m3u8
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47637.ts
 #EXTINF:-1 tvg-id="Variety-1" tvg-name="Variety 1" tvg-logo="https://assets.livednow.com/logo/Variety-1.png" group-title="SPORTS", Variety 𝟙
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportVariety1/mono.m3u8
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47628.ts
+#EXTINF:-1 tvg-id="Variety-2" tvg-name="Variety 2" tvg-logo="https://assets.livednow.com/logo/Variety-2.png" group-title="SPORTS", Variety 𝟚
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47629.ts
 #EXTINF:-1 tvg-id="Variety-3" tvg-name="Variety 3" tvg-logo="https://assets.livednow.com/logo/Variety-3.png" group-title="SPORTS", Variety 𝟛
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportVariety3/mono.m3u8
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47630.ts 
+#EXTINF:-1 tvg-id="Variety-4" tvg-name="Variety 4" tvg-logo="https://assets.livednow.com/logo/Variety-4.png" group-title="SPORTS", Variety 𝟜
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47631.ts  
 #EXTINF:-1 tvg-id="SuperSport-Grandstand" tvg-name="SuperSport Grandstand" tvg-logo="https://img.logo-cdn.cc/supersportgrandstand.png" group-title="SPORTS", SuperSport Grandstand
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSupersportGrandstand/mono.m3u8
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47724.ts
 #EXTINF:-1 tvg-id="SuperSport-PSL" tvg-name="SuperSport PSL" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png" group-title="SPORTS", SuperSport PSL
-https://wikinew.iosplayer.ru/wiki/eplayerSuperSportPSL/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sportsnet" tvg-name="Sportsnet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQ5qJFErp8HHqnV1OizJiJkfsMaTorLRgl-867YQyik1aXLJrpW3nR-ZZF8-GjH48u7xmE8z6LgeSEUty3n87JcoR5_ejihjUHgikkRZ9" group-title="SPORTS", Sportsnet
-https://esx1new.iosplayer.ru/esx1/primasportsnetontario/mono.m3u8
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47639.ts
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://docdog.top/logo/countries/canada/tsn1.png" group-title="SPORTS", TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
@@ -112,7 +113,7 @@ http://zjzcf.synology.me:35455/gaoma/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央卫视", CCTV 5+
 http://zjzcf.synology.me:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央卫视", CCTV 13
-hhttp://zjzcf.synology.me:35455/gaoma/cctv13.m3u8
+http://zjzcf.synology.me:35455/gaoma/cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央卫视", CCTV 16
 http://zjzcf.synology.me:35455/gaoma/cctv16.m3u8
 

@@ -16,27 +16,26 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7336/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperSport-Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://assets.livednow.com/logo/SuperSport-Tennis.png" group-title="SPORTS", SuperSport Tennis
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47721.ts
+https://wikinew.iosplayer.ru/wiki/eplayerSuperSportTennis/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport-Premier-League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="SPORTS", SuperSport Premier League
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47633.ts
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportPL/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport-Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="SPORTS", SuperSport Football
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47636.ts 
+https://top2new.iosplayer.ru/top2/eplayerSuperSportFootball/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport-LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://assets.livednow.com/logo/SuperSport-LaLiga.png" group-title="SPORTS", SuperSport LaLiga
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47638.ts
+https://wikinew.iosplayer.ru/wiki/eplayerSuperSportLaLiga/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport-Action" tvg-name="SuperSport Action" tvg-logo="https://assets.livednow.com/logo/SuperSport-Action.png" group-title="SPORTS", SuperSport Action
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47637.ts
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportAction/mono.m3u8
 #EXTINF:-1 tvg-id="Variety-1" tvg-name="Variety 1" tvg-logo="https://assets.livednow.com/logo/Variety-1.png" group-title="SPORTS", Variety 𝟙
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47628.ts
-#EXTINF:-1 tvg-id="Variety-2" tvg-name="Variety 2" tvg-logo="https://assets.livednow.com/logo/Variety-2.png" group-title="SPORTS", Variety 𝟚
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47629.ts
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportVariety1/mono.m3u8
 #EXTINF:-1 tvg-id="Variety-3" tvg-name="Variety 3" tvg-logo="https://assets.livednow.com/logo/Variety-3.png" group-title="SPORTS", Variety 𝟛
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47630.ts 
-#EXTINF:-1 tvg-id="Variety-4" tvg-name="Variety 4" tvg-logo="https://assets.livednow.com/logo/Variety-4.png" group-title="SPORTS", Variety 𝟜
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47631.ts  
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportVariety3/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport-Grandstand" tvg-name="SuperSport Grandstand" tvg-logo="https://img.logo-cdn.cc/supersportgrandstand.png" group-title="SPORTS", SuperSport Grandstand
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47724.ts
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSupersportGrandstand/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport-PSL" tvg-name="SuperSport PSL" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png" group-title="SPORTS", SuperSport PSL
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47639.ts
+https://wikinew.iosplayer.ru/wiki/eplayerSuperSportPSL/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportsnet" tvg-name="Sportsnet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQ5qJFErp8HHqnV1OizJiJkfsMaTorLRgl-867YQyik1aXLJrpW3nR-ZZF8-GjH48u7xmE8z6LgeSEUty3n87JcoR5_ejihjUHgikkRZ9" group-title="SPORTS", Sportsnet
+https://esx1new.iosplayer.ru/esx1/primasportsnetontario/mono.m3u8
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://docdog.top/logo/countries/canada/tsn1.png" group-title="SPORTS", TSN 1
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47440 
@@ -156,6 +155,72 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
 
 #EXTINF:-1 tvg-id="Now Sports PLUS" tvg-name="Now Sports PLUS" tvg-logo="" group-title="Now", Sports PLUS
 https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
+
+
+#EXTINF:-1 group-title="tvfix",翡翠台
+https://live.tvfix.org/live/jade/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVB Plus
+https://live.tvfix.org/live/tvbplus/index.m3u8
+#EXTINF:-1 group-title="tvfix",无线新闻台
+https://live.tvfix.org/live/inews/index.m3u8
+#EXTINF:-1 group-title="tvfix",明珠台
+https://live.tvfix.org/live/pearl/index.m3u8
+#EXTINF:-1 group-title="tvfix",娱乐新闻台
+https://live.tvfix.org/live/enews/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰中文
+https://live.tvfix.org/live/fhzw/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰资讯
+https://live.tvfix.org/live/fhzx/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰香港
+https://live.tvfix.org/live/fhxg/index.m3u8
+#EXTINF:-1 group-title="tvfix",CCTV-1高清
+https://live.tvfix.org/live/cctv1hd/index.m3u8
+#EXTINF:-1 group-title="tvfix",CGTN纪录高清
+https://live.tvfix.org/live/cgtndochd/index.m3u8
+#EXTINF:-1 group-title="tvfix",CGTN高清
+https://live.tvfix.org/live/cgtnhd/index.m3u8
+#EXTINF:-1 group-title="tvfix",中国电影频道
+https://live.tvfix.org/live/cmc/index.m3u8
+#EXTINF:-1 group-title="tvfix",东方卫视高清
+https://live.tvfix.org/live/dfhd/index.m3u8
+#EXTINF:-1 group-title="tvfix",18台赛马频道
+https://live.tvfix.org/live/c18/index.m3u8
+#EXTINF:-1 group-title="tvfix",28台AI智慧赛马频道
+https://live.tvfix.org/live/c28/index.m3u8
+#EXTINF:-1 group-title="tvfix",SUPER Kids Channel
+https://live.tvfix.org/live/kid/index.m3u8
+#EXTINF:-1 group-title="tvfix",ZooMoo
+https://live.tvfix.org/live/zoo/index.m3u8
+#EXTINF:-1 group-title="tvfix",Nickelodeon
+https://live.tvfix.org/live/niko/index.m3u8
+#EXTINF:-1 group-title="tvfix",Nick Jr
+https://live.tvfix.org/live/nickjr/index.m3u8
+#EXTINF:-1 group-title="tvfix",美亚电影台(粤语)
+https://live.tvfix.org/live/mydy/index.m3u8
+#EXTINF:-1 group-title="tvfix",天映经典
+https://live.tvfix.org/live/tyjd/index.m3u8
+#EXTINF:-1 group-title="tvfix",ROCK Action
+https://live.tvfix.org/live/rockac/index.m3u8
+#EXTINF:-1 group-title="tvfix",PopC
+https://live.tvfix.org/live/popc/index.m3u8
+#EXTINF:-1 group-title="tvfix",KIX
+https://live.tvfix.org/live/kix/index.m3u8
+#EXTINF:-1 group-title="tvfix",Love Nature HD
+https://live.tvfix.org/live/lovenature/index.m3u8
+#EXTINF:-1 group-title="tvfix",Global Trekker
+https://live.tvfix.org/live/trekker/index.m3u8
+#EXTINF:-1 group-title="tvfix",ROCK綜藝娛樂
+https://live.tvfix.org/live/rockzy/index.m3u8
+#EXTINF:-1 group-title="tvfix",AXN
+https://live.tvfix.org/live/axn/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVBS亚洲台
+https://live.tvfix.org/live/tvbs/index.m3u8
+#EXTINF:-1 group-title="tvfix",創世頻道
+https://live.tvfix.org/live/chuangshi/index.m3u8
+#EXTINF:-1 group-title="tvfix",FashionBox
+https://live.tvfix.org/live/fashion/index.m3u8
+#EXTINF:-1 group-title="tvfix",Mezzo Live HD
+https://live.tvfix.org/live/mezzon/index.m3u8
 
 
 #EXTINF:-1 group-title="其他", 香蕉
