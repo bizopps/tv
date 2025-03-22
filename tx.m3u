@@ -257,4 +257,8 @@ http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312
 #EXTINF:-1 group-title="其他", CCTV-5
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 
+#EXTINF:-1 group-title="其他", CCTV5+
+http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
 
+#EXTINF:-1 group-title="其他", 愛爾達體育1台
+https://djhami.8899779.xyz/hami/OTT_LIVE_0000001744
