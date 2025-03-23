@@ -371,17 +371,31 @@ https://stream1.freetv.fun/fox-news-channel-7.m3u8
 #EXTINF:-1 group-title="其他", Fox News Channel 2
 https://stream1.freetv.fun/fox-news-channel-2.m3u8
 
-#EXTINF:-1 group-title="其他", M+ LALIGA
-http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=115266&extension=ts
-#EXTINF:-1 group-title="其他", M+ LALIGA 1 
-http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=115442&extension=ts
-
-#EXTINF:-1 group-title="其他",ESPN 1
-http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=198306&extension=ts
-#EXTINF:-1 group-title="其他",ESPN 2
-http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=198307&extension=ts
-
-#EXTINF:-1 group-title="其他",Sky Sports Premier League
-http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=339640&extension=ts
-#EXTINF:-1 group-title="其他",SUPERSPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-id="" tvg-name="UK | SUPERSPORT PREMIER LEAGUE" group-title="其他", UK | SUPERSPORT PREMIER LEAGUE
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=201144&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK | SUPERSPORT GRANDSTAND" group-title="其他", UK | SUPERSPORT GRANDSTAND
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=201145&extension=ts
+
+#EXTINF:-1 group-title="其他", Premier 1-USA Network
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
+
+#EXTINF:-1 group-title="其他", FOX Sports 1 4K
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355198
+
+#EXTINF:-1 group-title="其他", SKY SPORTS TENNIS FHD
+http://extraott.com:80/live/7921751389/6097373662/391270.m3u8
+
+#EXTINF:-1 group-title="其他", Sky Sports Tennis
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/333804
+
+#EXTINF:-1 group-title="其他", Now Sports Premier League 1 FHD
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200230
+
+#EXTINF:-1 group-title="🪂Sky Sports ③🪂",Sky Sports Football
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+
