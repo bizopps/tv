@@ -92,14 +92,8 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="SPORTS", NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215837807839_96.png" group-title="SPORTS", WORLD POKER TOUR
-https://stream1.freetv.fun/world-poker-tour-3.m3u8
-
 #EXTINF:-1 tvg-id="UFC 24/7" tvg-name="UFC 24/7" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="SPORTS", UFC 24/7
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts 
-
-#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="SPORTS", MLB Network
-https://stream1.freetv.fun/mlb-network-2.ctv
 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="NEWS", 鳳凰中文
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
@@ -371,8 +365,17 @@ http://36.105.100.208:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 23
 http://huashetou.fun:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 
-#EXTINF:-1 group-title="其他", CBS NETWORK
-https://stream1.freetv.fun/mlb-network-5.m3u8
+#EXTINF:-1 group-title="其他", FOX NEWS NOW
+https://stream1.freetv.fun/fox-news-now-2.m3u8
 
-#EXTINF:-1 group-title="其他", MLB
-https://stream1.freetv.fun/mlb-1.m3u8
+#EXTINF:-1 group-title="其他", Fox News1
+https://stream1.freetv.fun/fox-news-4.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel
+https://stream1.freetv.fun/fox-news-channel-1.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel2
+https://stream1.freetv.fun/fox-news-channel-7.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel3
+https://stream1.freetv.fun/fox-news-channel-2.m3u8
