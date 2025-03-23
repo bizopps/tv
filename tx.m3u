@@ -91,6 +91,8 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="SPORTS", NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="SPORTS", MLB Network
+https://stream1.freetv.fun/mlb-1.m3u8
 
 #EXTINF:-1 tvg-id="UFC 24/7" tvg-name="UFC 24/7" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="SPORTS", UFC 24/7
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts 
@@ -98,6 +100,8 @@ http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="NEWS", 鳳凰中文
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="NEWS", FOX
+https://stream1.freetv.fun/fox-news-channel-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 1
 http://itv.nctv.top:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
@@ -396,6 +400,8 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/333804
 #EXTINF:-1 group-title="其他", Now Sports Premier League 1 FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200230
 
-#EXTINF:-1 group-title="🪂Sky Sports ③🪂",Sky Sports Football
+#EXTINF:-1 group-title="其他", Sky Sports Football
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 
+#EXTINF:-1 group-title="其他", LaLiga TV 🇬🇧 
+https://directplaylive.sbs/live/foot6/chunks.m3u8
