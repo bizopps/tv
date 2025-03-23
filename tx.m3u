@@ -403,8 +403,22 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200230
 #EXTINF:-1 group-title="其他", Sky Sports Football
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 
-#EXTINF:-1 group-title="其他", LaLiga TV 🇬🇧 
-https://directplaylive.sbs/live/foot6/chunks.m3u8
-
-#EXTINF:-1 group-title="其他", LaLiga TV 🇬🇧 
+#EXTINF:-1 group-title="其他", foot1 
+https://directplaylive.sbs/live/foot1/chunks.m3u8
+#EXTINF:-1 group-title="其他", foot2 
+https://directplaylive.sbs/live/foot2/chunks.m3u8
+#EXTINF:-1 group-title="其他", foot3 
+https://directplaylive.sbs/live/foot3/chunks.m3u8
+#EXTINF:-1 group-title="其他", foot4 
+https://directplaylive.sbs/live/foot4/chunks.m3u8
+#EXTINF:-1 group-title="其他", foot5 
 https://directplaylive.sbs/live/foot5/chunks.m3u8
+#EXTINF:-1 group-title="其他", foot6 
+https://directplaylive.sbs/live/foot6/chunks.m3u8
+#EXTINF:-1 group-title="其他", foot7 
+https://directplaylive.sbs/live/foot7/chunks.m3u8
+#EXTINF:-1 group-title="其他", foot8 
+https://directplaylive.sbs/live/foot8/chunks.m3u8
+#EXTINF:-1 group-title="其他", foot9 
+https://directplaylive.sbs/live/foot9/chunks.m3u8
+
