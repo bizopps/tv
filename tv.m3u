@@ -127,137 +127,95 @@ http://zjzcf.synology.me:35455/gaoma/cctv16.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="央卫视", 东方卫视
 https://live.tvfix.org/live/dfhd/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央卫视", CCTV 1
-http://itv.nctv.top:35455/itv/6000000001000029752.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央卫视", CCTV 4
-http://itv.nctv.top:35455/itv/5000000011000031102.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央卫视", CCTV 5
-http://itv.nctv.top:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央卫视", CCTV 5+
-http://itv.nctv.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央卫视", CCTV 13
-http://itv.nctv.top:35455/itv/5000000011000031108.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央卫视", CCTV 16
-http://itv.nctv.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="央卫视", 东方卫视
-http://itv.nctv.top:35455/itv/6000000001000003639.m3u8?cdn=ystenlive
-
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 1
-http://itv.nctv.top:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 2
-http://itv.nctv.top:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000001000005969.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 3
-http://itv.nctv.top:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000001000007218.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 4
-http://itv.nctv.top:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000001000008001.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 5
-http://itv.nctv.top:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000001000008176.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 6
-http://itv.nctv.top:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000001000008379.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 7
-http://itv.nctv.top:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000001000010129.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 8
-http://itv.nctv.top:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000001000010948.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 9
-http://itv.nctv.top:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000001000028638.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 10
-http://itv.nctv.top:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000001000031494.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 11
-http://itv.nctv.top:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000005837.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 12
-http://itv.nctv.top:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011518.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 13
-http://itv.nctv.top:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011519.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 14
-http://itv.nctv.top:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011520.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 15
-http://itv.nctv.top:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011521.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 16
-http://itv.nctv.top:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011522.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 24
-http://itv.nctv.top:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000000097.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 25
-http://itv.nctv.top:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000002019.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 26
-http://itv.nctv.top:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000002809.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 27
-http://itv.nctv.top:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000003915.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 28
-http://itv.nctv.top:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000004193.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 29
-http://itv.nctv.top:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000006077.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 30
-http://itv.nctv.top:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000006658.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 31
-http://itv.nctv.top:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000009788.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 32
-http://itv.nctv.top:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000010833.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 33
-http://itv.nctv.top:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000011297.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 34
-http://itv.nctv.top:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000011518.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 35
-http://itv.nctv.top:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000012558.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 36
-http://itv.nctv.top:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000012616.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 37
-http://itv.nctv.top:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000015470.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 38
-http://itv.nctv.top:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000015560.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 40
-http://itv.nctv.top:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000019839.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 41
-http://itv.nctv.top:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000021904.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 42
-http://itv.nctv.top:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000023434.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 43
-http://itv.nctv.top:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000025380.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 44
-http://itv.nctv.top:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000027691.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 45
-http://itv.nctv.top:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000010000031669.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 17 GC4
-http://itv.nctv.top:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011523.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 18 GC4
-http://itv.nctv.top:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011524.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 19 SN3
-http://itv.nctv.top:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011525.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 20 JJ1
-http://itv.nctv.top:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011528.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 21 LQ2
-http://itv.nctv.top:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011529.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 22 JJ1
-http://itv.nctv.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011530.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 23 LQ2
-http://itv.nctv.top:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+http://t8622699o8.vicp.fun:60024/itv/3000000020000011531.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 39 Blank
-http://itv.nctv.top:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 湖南bblive-1 JJ1
-http://itv.nctv.top:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 湖南bblive-2 LQ2
-http://itv.nctv.top:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 湖南bblive-3 GC4
-http://itv.nctv.top:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 湖南bblive-4
-http://itv.nctv.top:35455/itv/2000000003000000063.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 湖南bblive-5 GC4
-http://itv.nctv.top:35455/itv/2000000003000000064.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 湖南bblive-6 LQ2
-http://itv.nctv.top:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 易视腾-1 JJ1
-http://itv.nctv.top:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 易视腾-2 LQ2
-http://itv.nctv.top:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 易视腾-3 GC4
-http://itv.nctv.top:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 易视腾-4
-http://itv.nctv.top:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 易视腾-5 GC4
-http://itv.nctv.top:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 易视腾-6 LQ2
-http://itv.nctv.top:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
-
+http://t8622699o8.vicp.fun:60024/itv/3000000010000017678.m3u8?cdn=ystenlive
 
