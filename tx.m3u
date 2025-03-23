@@ -362,3 +362,26 @@ http://36.105.100.208:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 23
 http://huashetou.fun:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 
+#EXTINF:-1 group-title="其他", FOX NEWS NOW
+https://stream1.freetv.fun/fox-news-now-2.m3u8
+#EXTINF:-1 group-title="其他", Fox News
+https://stream1.freetv.fun/fox-news-4.m3u8
+#EXTINF:-1 group-title="其他", Fox News Channel
+https://stream1.freetv.fun/fox-news-channel-7.m3u8
+#EXTINF:-1 group-title="其他", Fox News Channel 2
+https://stream1.freetv.fun/fox-news-channel-2.m3u8
+
+#EXTINF:-1 group-title="其他", M+ LALIGA
+http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=115266&extension=ts
+#EXTINF:-1 group-title="其他", M+ LALIGA 1 
+http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=115442&extension=ts
+
+#EXTINF:-1 group-title="其他",ESPN 1
+http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=198306&extension=ts
+#EXTINF:-1 group-title="其他",ESPN 2
+http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=198307&extension=ts
+
+#EXTINF:-1 group-title="其他",Sky Sports Premier League
+http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=339640&extension=ts
+#EXTINF:-1 group-title="其他",SUPERSPORT PREMIER LEAGUE
+http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=201144&extension=ts
