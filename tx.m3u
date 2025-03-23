@@ -15,6 +15,30 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7336/index.m3u8
 #EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="SPORTS", Sky Sports Premier League
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
 
+
+#EXTINF:-1 tvg-id="SuperSport-Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://assets.livednow.com/logo/SuperSport-Tennis.png" group-title="SPORTS", SuperSport Tennis
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47721.ts
+#EXTINF:-1 tvg-id="SuperSport-Premier-League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="SPORTS", SuperSport Premier League
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47633.ts
+#EXTINF:-1 tvg-id="SuperSport-Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="SPORTS", SuperSport Football
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47636.ts 
+#EXTINF:-1 tvg-id="SuperSport-LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://assets.livednow.com/logo/SuperSport-LaLiga.png" group-title="SPORTS", SuperSport LaLiga
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47638.ts
+#EXTINF:-1 tvg-id="SuperSport-Action" tvg-name="SuperSport Action" tvg-logo="https://assets.livednow.com/logo/SuperSport-Action.png" group-title="SPORTS", SuperSport Action
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47637.ts
+#EXTINF:-1 tvg-id="Variety-1" tvg-name="Variety 1" tvg-logo="https://assets.livednow.com/logo/Variety-1.png" group-title="SPORTS", Variety 𝟙
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47628.ts
+#EXTINF:-1 tvg-id="Variety-2" tvg-name="Variety 2" tvg-logo="https://assets.livednow.com/logo/Variety-2.png" group-title="SPORTS", Variety 𝟚
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47629.ts
+#EXTINF:-1 tvg-id="Variety-3" tvg-name="Variety 3" tvg-logo="https://assets.livednow.com/logo/Variety-3.png" group-title="SPORTS", Variety 𝟛
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47630.ts 
+#EXTINF:-1 tvg-id="Variety-4" tvg-name="Variety 4" tvg-logo="https://assets.livednow.com/logo/Variety-4.png" group-title="SPORTS", Variety 𝟜
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47631.ts  
+#EXTINF:-1 tvg-id="SuperSport-Grandstand" tvg-name="SuperSport Grandstand" tvg-logo="https://img.logo-cdn.cc/supersportgrandstand.png" group-title="SPORTS", SuperSport Grandstand
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47724.ts
+#EXTINF:-1 tvg-id="SuperSport-PSL" tvg-name="SuperSport PSL" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png" group-title="SPORTS", SuperSport PSL
+http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47639.ts
+
 #EXTINF:-1 tvg-id="SuperSport-Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://assets.livednow.com/logo/SuperSport-Tennis.png" group-title="SPORTS", SuperSport Tennis
 https://wikinew.iosplayer.ru/wiki/eplayerSuperSportTennis/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport-Premier-League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="SPORTS", SuperSport Premier League
@@ -33,9 +57,9 @@ https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportVariety3/mono.m3u8
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSupersportGrandstand/mono.m3u8
 #EXTINF:-1 tvg-id="SuperSport-PSL" tvg-name="SuperSport PSL" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png" group-title="SPORTS", SuperSport PSL
 https://wikinew.iosplayer.ru/wiki/eplayerSuperSportPSL/mono.m3u8
-
 #EXTINF:-1 tvg-id="Sportsnet" tvg-name="Sportsnet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQ5qJFErp8HHqnV1OizJiJkfsMaTorLRgl-867YQyik1aXLJrpW3nR-ZZF8-GjH48u7xmE8z6LgeSEUty3n87JcoR5_ejihjUHgikkRZ9" group-title="SPORTS", Sportsnet
 https://esx1new.iosplayer.ru/esx1/primasportsnetontario/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://docdog.top/logo/countries/canada/tsn1.png" group-title="SPORTS", TSN 1
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47440 
@@ -74,16 +98,17 @@ https://stream1.freetv.fun/world-poker-tour-3.m3u8
 #EXTINF:-1 tvg-id="UFC 24/7" tvg-name="UFC 24/7" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG3.png" group-title="SPORTS", UFC 24/7
 http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47643.ts 
 
+#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="SPORTS", NBA TV
+https://stream1.freetv.fun/a11fb2e1749debb06c0d3402a7fb5eb4d956a02d26a71255647760762f03a48a.m3u8
+
+#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="SPORTS", MLB Network
+https://stream1.freetv.fun/mlb-network-2.ctv
 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="NEWS", 鳳凰中文
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cp24.png" group-title="NEWS", CP24
-http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57257
-#EXTINF:-1 tvg-id="GLOBAL" tvg-name="GLOBAL" tvg-logo="https://docdog.top/logo/countries/canada/global.png" group-title="NEWS", GLOBAL
-http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57435 
-#EXTINF:-1 tvg-id="CBC" tvg-name="CBC" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001937082113_33.png" group-title="NEWS", CBC
-http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57306 
+#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="NEWS", FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕视频 1
@@ -328,9 +353,6 @@ http://livetv.wqwqwq.sbs/itv/3000000001000005308.m3u8?cdn=wasusyt
 #EXTINF:-1 group-title="其他", 咪咕直播 14
 http://lu.wqwqwq.sbs/itv/3000000001000005308.m3u8?cdn=ystenlive
 
-#EXTINF:-1 group-title="其他", 咪咕直播 15
-http://itv.nctv.top:35455/itv/3000000001000005308.m3u8?cdn=wasusyt
-
 #EXTINF:-1 group-title="其他", 咪咕直播 16
 http://3501776.xyz:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 
@@ -349,9 +371,9 @@ http://125.109.29.136:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 21
 http://36.105.100.208:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 
-#EXTINF:-1 group-title="其他", 咪咕直播 22
-http://t8622699o8.vicp.fun:60024/itv/3000000001000005308.m3u8?cdn=ystenlive
-
 #EXTINF:-1 group-title="其他", 咪咕直播 23
 http://huashetou.fun:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
+
+#EXTINF:-1 group-title="其他", 咪咕直播 24
+http://zjzcf.synology.me:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 
