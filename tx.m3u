@@ -405,3 +405,6 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 
 #EXTINF:-1 group-title="其他", LaLiga TV 🇬🇧 
 https://directplaylive.sbs/live/foot6/chunks.m3u8
+
+#EXTINF:-1 group-title="其他", LaLiga TV 🇬🇧 
+https://directplaylive.sbs/live/foot5/chunks.m3u8
