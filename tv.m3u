@@ -1,6 +1,20 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
+#EXTINF:-1 group-title="live", live 1 
+https://directplaylive.sbs/live/foot1/chunks.m3u8
+#EXTINF:-1 group-title="live", live 2 
+https://directplaylive.sbs/live/foot2/chunks.m3u8
+#EXTINF:-1 group-title="live", live 3 
+https://directplaylive.sbs/live/foot3/chunks.m3u8
+#EXTINF:-1 group-title="live", live 4 
+https://directplaylive.sbs/live/foot4/chunks.m3u8
+#EXTINF:-1 group-title="live", live 5 
+https://directplaylive.sbs/live/foot5/chunks.m3u8
+#EXTINF:-1 group-title="live", live 6 
+https://directplaylive.sbs/live/foot6/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS", TNT Sport 𝟚
@@ -277,22 +291,3 @@ http://zjzcf.synology.me:35455/itv/3000000020000011525.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播 2", 咪咕视频 18 GC4
 http://zjzcf.synology.me:35455/itv/3000000020000011524.m3u8?cdn=ystenlive
 
-
-#EXTINF:-1 group-title="其他", foot1 
-https://directplaylive.sbs/live/foot1/chunks.m3u8
-#EXTINF:-1 group-title="其他", foot2 
-https://directplaylive.sbs/live/foot2/chunks.m3u8
-#EXTINF:-1 group-title="其他", foot3 
-https://directplaylive.sbs/live/foot3/chunks.m3u8
-#EXTINF:-1 group-title="其他", foot4 
-https://directplaylive.sbs/live/foot4/chunks.m3u8
-#EXTINF:-1 group-title="其他", foot5 
-https://directplaylive.sbs/live/foot5/chunks.m3u8
-#EXTINF:-1 group-title="其他", foot6 
-https://directplaylive.sbs/live/foot6/chunks.m3u8
-#EXTINF:-1 group-title="其他", foot7 
-https://directplaylive.sbs/live/foot7/chunks.m3u8
-#EXTINF:-1 group-title="其他", foot8 
-https://directplaylive.sbs/live/foot8/chunks.m3u8
-#EXTINF:-1 group-title="其他", foot9 
-https://directplaylive.sbs/live/foot9/chunks.m3u8
