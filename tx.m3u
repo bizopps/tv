@@ -86,77 +86,6 @@ http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57435
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57306 
 
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="Now", HBO
-https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-
-#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="" group-title="Now", 爆谷台
-https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
-
-#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="" group-title="Now", 爆谷星影台
-https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
-
-#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="" group-title="Now", 直播台
-https://dko29we9nm1rd.cloudfront.net/hls/CH331/index.m3u8
-
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="" group-title="Now", 新聞台
-https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
-
-#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="" group-title="Now", 財經台
-https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Now Sports 英超1台" tvg-name="Now Sports 英超1台" tvg-logo="" group-title="Now", 英超1台
-https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-name="Now Sports 英超2台" tvg-logo="" group-title="Now", 英超2台
-https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超3台" tvg-name="Now Sports 英超3台" tvg-logo="" group-title="Now", 英超3台
-https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超4台" tvg-name="Now Sports 英超4台" tvg-logo="" group-title="Now", 英超4台
-https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超5台" tvg-name="Now Sports 英超5台" tvg-logo="" group-title="Now", 英超5台
-https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 英超6台" tvg-name="Now Sports 英超6台" tvg-logo="" group-title="Now", 英超6台
-https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Now Sports 2" tvg-name="Now Sports 2" tvg-logo="" group-title="Now", Sports 2
-https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 3" tvg-name="Now Sports 3" tvg-logo="" group-title="Now", Sports 3
-https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 4" tvg-name="Now Sports 4" tvg-logo="" group-title="Now", Sports 4
-https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 5" tvg-name="Now Sports 5" tvg-logo="" group-title="Now", Sports 5
-https://dko29we9nm1rd.cloudfront.net/hls/CH635/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 6" tvg-name="Now Sports 6" tvg-logo="" group-title="Now", Sports 6
-https://dko29we9nm1rd.cloudfront.net/hls/CH636/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 7" tvg-name="Now Sports 7" tvg-logo="" group-title="Now", Sports 7
-https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Bein-Sports-English-1" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="Now", beIN SPORTS 𝟙
-https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8 
-#EXTINF:-1 tvg-id="Bein-Sports-English-2" tvg-name="beIN SPORTS 2" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-English-2.png" group-title="Now", beIN SPORTS 𝟚
-https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
-
-#EXTINF:-1 tvg-id="Now Sports 641" tvg-name="Now Sports 641" tvg-logo="" group-title="Now", Sports 641
-https://dko29we9nm1rd.cloudfront.net/hls/CH641/index.m3u8
-
-#EXTINF:-1 tvg-id="NBATV" tvg-name="NBATV" tvg-logo="" group-title="Now", NBATV
-https://dko29we9nm1rd.cloudfront.net/hls/CH642/index.m3u8
-
-#EXTINF:-1 tvg-id="Now Sports 651" tvg-name="Now Sports 651" tvg-logo="" group-title="Now", Sports 651
-https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
-
-#EXTINF:-1 tvg-id="Now Sports 652" tvg-name="Now Sports 652" tvg-logo="" group-title="Now", Sports 652
-https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
-
-#EXTINF:-1 tvg-id="Premier Sports" tvg-name="Premier Sports" tvg-logo="" group-title="Now", Premier Sports
-https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
-
-#EXTINF:-1 tvg-id="Now Sports PLUS" tvg-name="Now Sports PLUS" tvg-logo="" group-title="Now", Sports PLUS
-https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
-
-
 #EXTINF:-1 group-title="tvfix",翡翠台
 https://live.tvfix.org/live/jade/index.m3u8
 #EXTINF:-1 group-title="tvfix",TVB Plus
@@ -254,11 +183,29 @@ http://suo.im/aD7Ry
 #EXTINF:-1 group-title="其他", SuperSports Action HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312
 
-#EXTINF:-1 group-title="其他", CCTV-5
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
+#EXTINF:-1 group-title="其他", Now 新聞台
+https://eventcdn02-nowe.akamaized.net/hls/CH332/index.m3u8
 
-#EXTINF:-1 group-title="其他", CCTV5+
-http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
+#EXTINF:-1 group-title="其他", Now 新聞台
+https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
 
-#EXTINF:-1 group-title="其他", 愛爾達體育1台
-https://djhami.8899779.xyz/hami/OTT_LIVE_0000001744
+#EXTINF:-1 group-title="其他", 咪咕视频 1
+http://iptv.0564.org:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+
+#EXTINF:-1 group-title="其他", 咪咕直播 2
+http://iptv.887979.xyz/itv/3000000001000005308.m3u8?cdn=FifastbLive
+
+#EXTINF:-1 group-title="其他", 咪咕视频 3
+http://pan.taokee.vip:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+
+#EXTINF:-1 group-title="其他", 咪咕直播 4
+http://xxx.504900.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+
+#EXTINF:-1 group-title="其他", 咪咕直播 5
+http://home.wwang.pw:35455/itv/3000000001000005308.m3u8?cdn=hnbblive
+
+#EXTINF:-1 group-title="其他", 咪咕直播 6
+http://lt.hxtre.com:35455/itv/3000000001000005308.m3u8?cdn=hnbblive
+
+#EXTINF:-1 group-title="其他", 咪咕直播 7
+http://feiyang.ak47s.top:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
