@@ -1,14 +1,40 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-
-
-
-#EXTINF:-1 group-title="LIVE", 愛爾達體育
+#EXTINF:-1 group-title="LIVE", 愛爾達體育1台
+http://118.170.45.178:9981/stream/channelid/137219409?profile=pass
+#EXTINF:-1 group-title="LIVE", 愛爾達體育2台
 http://118.170.45.178:9981/stream/channelid/2126081132?profile=pass
-
-#EXTINF:-1 group-title="LIVE", 魔术 vs 湖人
-https://pullkgq.15qctz.com/sport/201_3468611_3.m3u8?auth_key=1742860689-0-0-55d0033327870a587bbc5e8fab35e04c
+#EXTINF:-1 group-title="LIVE", 愛爾達體育3台
+http://118.170.45.178:9981/stream/channelid/672379933?profile=pass
+#EXTINF:-1 group-title="LIVE", 愛爾達體育4台
+http://118.170.45.178:9981/stream/channelid/1899740166?profile=pass
+#EXTINF:-1 group-title="LIVE", 博斯高球1台
+http://118.170.45.178:9981/stream/channelid/166603363?profile=pass
+#EXTINF:-1 group-title="LIVE", 博斯高球2台
+http://118.170.45.178:9981/stream/channelid/1365837590?profile=pass
+#EXTINF:-1 group-title="LIVE", 博斯網球台
+http://118.170.45.178:9981/stream/channelid/136834260?profile=pass
+#EXTINF:-1 group-title="LIVE", 博斯魅力網
+http://118.170.45.178:9981/stream/channelid/1886707133?profile=pass
+#EXTINF:-1 group-title="LIVE", 博斯無限1台
+http://118.170.45.178:9981/stream/channelid/1615414300?profile=pass
+#EXTINF:-1 group-title="LIVE", 博斯無限2台
+http://118.170.45.178:9981/stream/channelid/228549360?profile=pass
+#EXTINF:-1 group-title="LIVE", 博斯運動1台
+http://118.170.45.178:9981/stream/channelid/2089493264?profile=pass
+#EXTINF:-1 group-title="LIVE", 博斯運動2台
+http://118.170.45.178:9981/stream/channelid/945841111?profile=pass
+#EXTINF:-1 group-title="LIVE", TRACE Sport Stars
+http://118.170.45.178:9981/stream/channelid/1358837270?profile=pass
+#EXTINF:-1 group-title="LIVE", DAZN2
+http://118.170.45.178:9981/stream/channelid/1280353556?profile=pass
+#EXTINF:-1 group-title="LIVE", DAZN3
+http://118.170.45.178:9981/stream/channelid/870822036?profile=pass
+#EXTINF:-1 group-title="LIVE", 智林體育台
+http://118.170.45.178:9981/stream/channelid/266390619?profile=pass
+#EXTINF:-1 group-title="LIVE", EUROSPORT
+http://118.170.45.178:9981/stream/channelid/1344951953?profile=pass
 
 #EXTINF:-1 group-title="LIVE", FS 2
 https://liveua.score806.cc/us_fs2/index.m3u8
@@ -16,11 +42,6 @@ https://liveua.score806.cc/us_fs2/index.m3u8
 #EXTINF:-1 group-title="LIVE", ITV 1
 https://liveua.score806.cc/uk_itv1/index.m3u8
 
-#EXTINF:-1 group-title="LIVE", live d
-https://91a2c0haoqiu-play.qqqrqq.com/live/hd-zh-2-3800332.m3u8?txSecret=59895b3f1d8df62693e54ecdddc0c2ce&txTime=1742860467
-
-#EXTINF:-1 group-title="LIVE", live e
-https://91a2c0haoqiu-play.qqqrqq.com/live/sd-1-4146382.m3u8?txSecret=603c02f0ba0dd962905b91bb32974e1f&txTime=1742900256
 
 #EXTINF:-1 group-title="LIVE", live 1 
 https://directplaylive.sbs/live/foot1/chunks.m3u8
