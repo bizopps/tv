@@ -1,6 +1,29 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
+#EXTINF:-1 group-title="LIVE", NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="LIVE", NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="LIVE", ,NFL RedZone
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 group-title="LIVE", NHL Network (720p)
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="LIVE", MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="LIVE", Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="LIVE", CBS Sports Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="LIVE", CBS Sports
+https://jmp2.uk/sam-USBB4800005VO.m3u8
+
+#EXTINF:-1 group-title="LIVE", World Poker Tour (1080p) [Not 24/7]
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+
 #EXTINF:-1 group-title="LIVE", 愛爾達體育1台
 http://118.170.45.178:9981/stream/channelid/137219409?profile=pass
 #EXTINF:-1 group-title="LIVE", 愛爾達體育2台
