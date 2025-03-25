@@ -1,17 +1,22 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 group-title="live", live 1 
+#EXTINF:-1 group-title="LIVE", live 1
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
+#EXTINF:-1 group-title="LIVE", live 1
+http://61.224.125.198:21119/live.m3u8?token=fhPV7PmhV&c=8
+
+#EXTINF:-1 group-title="LIVE", live 1 
 https://directplaylive.sbs/live/foot1/chunks.m3u8
-#EXTINF:-1 group-title="live", live 2 
+#EXTINF:-1 group-title="LIVE", live 2 
 https://directplaylive.sbs/live/foot2/chunks.m3u8
-#EXTINF:-1 group-title="live", live 3 
+#EXTINF:-1 group-title="LIVE", live 3 
 https://directplaylive.sbs/live/foot3/chunks.m3u8
-#EXTINF:-1 group-title="live", live 4 
+#EXTINF:-1 group-title="LIVE", live 4 
 https://directplaylive.sbs/live/foot4/chunks.m3u8
-#EXTINF:-1 group-title="live", live 5 
+#EXTINF:-1 group-title="LIVE", live 5 
 https://directplaylive.sbs/live/foot5/chunks.m3u8
-#EXTINF:-1 group-title="live", live 6 
+#EXTINF:-1 group-title="LIVE", live 6 
 https://directplaylive.sbs/live/foot6/chunks.m3u8
 
 
