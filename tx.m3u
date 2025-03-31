@@ -676,3 +676,5 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&C
 #EXTINF:-1 group-title="其他", Now 新聞台
 http://hk01.windowsupdate.work:8000/now/332
 
+#EXTINF:-1 group-title="其他", 博斯運動一台
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn07
