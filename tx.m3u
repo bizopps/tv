@@ -611,7 +611,7 @@ http://itv.nctv.top:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="其他", 咪咕直播 16
 http://lt.hxtre.com:35455/itv/3000000001000005308.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="其他", 咪咕直播 17
-http://61.160.112.102:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+http://b.zgjok.com:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 18
 http://lu.wqwqwq.sbs/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 19
@@ -620,8 +620,6 @@ http://36.105.100.208:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 http://huashetou.fun:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 21
 http://125.109.29.136:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="其他", 咪咕直播 22
-http://b.zgjok.com:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 
 
 #EXTINF:-1 group-title="其他", Fox News
@@ -669,3 +667,7 @@ https://iptv.judy-iptv.cc.ua/litv.php?id=litv-longturn07
 
 #EXTINF:-1 group-title="其他", beIN Sports
 https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6126/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM$license-type=clearkey$license-key=7a07e03c0ba140358b7c4e47e05e0b29:53b5f74d7d986dacef85122677a73da5
+
+#EXTINF:-1 group-title="其他", CCTV-5
+http://172.16.149.41:9090/live/1605.m3u8
+
