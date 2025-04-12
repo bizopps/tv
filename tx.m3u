@@ -615,7 +615,7 @@ http://b.zgjok.com:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 18
 http://lu.wqwqwq.sbs/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 19
-http://36.105.100.208:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
+http://zjzcf.synology.me:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 20
 http://huashetou.fun:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 21
@@ -643,13 +643,6 @@ http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200230
 #EXTINF:-1 group-title="其他", Sky Sports Football
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 
-#EXTINF:-1 group-title="其他", foot7 
-https://directplaylive.sbs/live/foot7/chunks.m3u8
-#EXTINF:-1 group-title="其他", foot8 
-https://directplaylive.sbs/live/foot8/chunks.m3u8
-#EXTINF:-1 group-title="其他", foot9 
-https://directplaylive.sbs/live/foot9/chunks.m3u8
-
 #EXTINF:-1 group-title="其他", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="其他", Sky Sports 2 NZ 
@@ -662,12 +655,49 @@ https://7pal.short.gy/skyspt4nz
 #EXTINF:-1 group-title="其他", UFC
 https://jmp2.uk/sam-US2900017P2.m3u8
 
-#EXTINF:-1 group-title="其他", 博斯運動一台
-https://iptv.judy-iptv.cc.ua/litv.php?id=litv-longturn07
 
-#EXTINF:-1 group-title="其他", beIN Sports
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6126/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM$license-type=clearkey$license-key=7a07e03c0ba140358b7c4e47e05e0b29:53b5f74d7d986dacef85122677a73da5
+#EXTINF:-1 group-title="其他", 鳳凰中文 1
+https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
 
-#EXTINF:-1 group-title="其他", CCTV-5
-http://172.16.149.41:9090/live/1605.m3u8
+#EXTINF:-1 group-title="其他", 鳳凰中文 2
+https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 3
+https://stream1.freetv.fun/feng-huang-zhong-wen-3.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 4
+https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 5
+https://stream1.freetv.fun/feng-huang-zhong-wen-5.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 6
+https://stream1.freetv.fun/feng-huang-zhong-wen-6.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 7
+https://stream1.freetv.fun/feng-huang-zhong-wen-7.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 8
+https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 9
+https://stream1.freetv.fun/feng-huang-zhong-wen-9.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 10
+https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 11
+https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 12
+https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 13
+https://stream1.freetv.fun/feng-huang-zhong-wen-13.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 14
+https://stream1.freetv.fun/feng-huang-zhong-wen-14.m3u8
+
+#EXTINF:-1 group-title="其他", 鳳凰中文 15
+https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
 
