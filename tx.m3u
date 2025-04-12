@@ -622,12 +622,6 @@ http://huashetou.fun:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 http://125.109.29.136:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 
 
-#EXTINF:-1 group-title="其他", Fox News
-https://stream1.freetv.fun/fox-news-4.m3u8
-#EXTINF:-1 group-title="其他", Fox News
-https://stream1.freetv.fun/fox-news-channel-2.m3u8
-
-
 #EXTINF:-1 group-title="其他", UK | SUPERSPORT PREMIER LEAGUE
 http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=201144&extension=ts
 #EXTINF:-1 group-title="其他", Premier 1-USA Network
@@ -701,6 +695,7 @@ https://stream1.freetv.fun/feng-huang-zhong-wen-14.m3u8
 #EXTINF:-1 group-title="其他", 鳳凰中文 15
 https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
 
+
 #EXTINF:-1 group-title="其他", nba 1
 https://stream1.freetv.fun/nba-tv-1.m3u8
 
@@ -727,4 +722,59 @@ https://stream1.freetv.fun/nba-tv-8.m3u8
 
 #EXTINF:-1 group-title="其他", nba 9
 https://stream1.freetv.fun/nba-tv-9.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News 1
+https://stream1.freetv.fun/fox-news-1.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News 2
+https://stream1.freetv.fun/fox-news-2.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News 3
+https://stream1.freetv.fun/fox-news-3.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News 4
+https://stream1.freetv.fun/fox-news-4.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News 5
+https://stream1.freetv.fun/fox-news-5.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News 6
+https://stream1.freetv.fun/fox-news-6.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News 7
+https://stream1.freetv.fun/fox-news-7.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News 8
+https://stream1.freetv.fun/fox-news-8.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News 9
+https://stream1.freetv.fun/fox-news-9.m3u8
+
+
+#EXTINF:-1 group-title="其他", Fox News Channel 1
+https://stream1.freetv.fun/fox-news-channel-1.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel 2
+https://stream1.freetv.fun/fox-news-channel-2.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel 3
+https://stream1.freetv.fun/fox-news-channel-2.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel 4
+https://stream1.freetv.fun/fox-news-channel-2.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel 5
+https://stream1.freetv.fun/fox-news-channel-2.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel 6
+https://stream1.freetv.fun/fox-news-channel-2.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel 7
+https://stream1.freetv.fun/fox-news-channel-2.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel 8
+https://stream1.freetv.fun/fox-news-channel-2.m3u8
+
+#EXTINF:-1 group-title="其他", Fox News Channel 9
+https://stream1.freetv.fun/fox-news-channel-2.m3u8
 
