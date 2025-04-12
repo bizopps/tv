@@ -731,3 +731,46 @@ https://stream1.freetv.fun/cctv52-2.m3u8
 https://stream1.freetv.fun/cctv5ti-yu-7.m3u8
 #EXTINF:-1 group-title="其他", CCTV 5 31
 https://stream1.freetv.fun/ipv6-cctv5-50.m3u8
+
+#EXTINF:-1 group-title="其他", CCTV 16 1
+https://stream1.freetv.fun/cctv16-1.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 2
+https://stream1.freetv.fun/cctv16-19.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 3
+https://stream1.freetv.fun/cctv16-22.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 4
+https://stream1.freetv.fun/cctv16-29.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 5
+https://stream1.freetv.fun/cctv16-30.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 6
+https://stream1.freetv.fun/cctv16-31.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 7
+https://stream1.freetv.fun/cctv16-34.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 8
+https://stream1.freetv.fun/cctv16-38.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 9
+https://stream1.freetv.fun/cctv16-41.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 10
+https://stream1.freetv.fun/cctv16-42.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 11
+https://stream1.freetv.fun/cctv16-43.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 12
+https://stream1.freetv.fun/cctv16-44.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 13
+https://stream1.freetv.fun/cctv16-47.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 14
+https://stream1.freetv.fun/cctv16-55.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 15
+https://stream1.freetv.fun/cctv16-63.m3u8
+#EXTINF:-1 group-title="其他", CCTV 16 16
+https://stream1.freetv.fun/ipv6-cctv16-33.m3u8
+
+#EXTINF:-1 group-title="其他", Sky Sports 7
+https://stream1.freetv.fun/skysports-7.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 15
+https://stream1.freetv.fun/skysports-15.ctv
+
+#EXTINF:-1 group-title="其他", ESPN 3
+https://stream1.freetv.fun/espn-3.m3u8
+#EXTINF:-1 group-title="其他", ESPN 4
+https://stream1.freetv.fun/espn-4.m3u8
