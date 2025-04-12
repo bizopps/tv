@@ -765,12 +765,54 @@ https://stream1.freetv.fun/cctv16-63.m3u8
 #EXTINF:-1 group-title="其他", CCTV 16 16
 https://stream1.freetv.fun/ipv6-cctv16-33.m3u8
 
+#EXTINF:-1 group-title="其他", Sky Sports 1
+https://stream1.freetv.fun/skysports-1.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 2
+https://stream1.freetv.fun/skysports-2.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 3
+https://stream1.freetv.fun/skysports-3.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 4
+https://stream1.freetv.fun/skysports-4.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 5
+https://stream1.freetv.fun/skysports-5.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 6
+https://stream1.freetv.fun/skysports-6.ctv
 #EXTINF:-1 group-title="其他", Sky Sports 7
 https://stream1.freetv.fun/skysports-7.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 8
+https://stream1.freetv.fun/skysports-8.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 8
+https://stream1.freetv.fun/skysports-9.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 10
+https://stream1.freetv.fun/skysports-10.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 11
+https://stream1.freetv.fun/skysports-11.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 12
+https://stream1.freetv.fun/skysports-12.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 13
+https://stream1.freetv.fun/skysports-13.ctv
+#EXTINF:-1 group-title="其他", Sky Sports 14
+https://stream1.freetv.fun/skysports-14.ctv
 #EXTINF:-1 group-title="其他", Sky Sports 15
 https://stream1.freetv.fun/skysports-15.ctv
 
+#EXTINF:-1 group-title="其他", ESPN 1
+https://stream1.freetv.fun/espn-1.m3u8
+#EXTINF:-1 group-title="其他", ESPN 2
+https://stream1.freetv.fun/espn-2.m3u8
 #EXTINF:-1 group-title="其他", ESPN 3
 https://stream1.freetv.fun/espn-3.m3u8
 #EXTINF:-1 group-title="其他", ESPN 4
 https://stream1.freetv.fun/espn-4.m3u8
+
+#EXTINF:-1 group-title="其他", ESPN 1
+https://stream1.freetv.fun/espn-1.ctv
+#EXTINF:-1 group-title="其他", ESPN 2
+https://stream1.freetv.fun/espn-2.ctv
+#EXTINF:-1 group-title="其他", ESPN 3
+https://stream1.freetv.fun/espn-3.ctv
+#EXTINF:-1 group-title="其他", ESPN 4
+https://stream1.freetv.fun/espn-4.ctv
+#EXTINF:-1 group-title="其他", ESPN 5
+https://stream1.freetv.fun/espn-5.ctv
+
