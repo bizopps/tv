@@ -104,71 +104,6 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 https://stream1.freetv.fun/fox-news-channel-1.m3u8
 
 
-#EXTINF:-1 group-title="tvfix",翡翠台
-https://live.tvfix.org/live/jade/index.m3u8
-#EXTINF:-1 group-title="tvfix",TVB Plus
-https://live.tvfix.org/live/tvbplus/index.m3u8
-#EXTINF:-1 group-title="tvfix",无线新闻台
-https://live.tvfix.org/live/inews/index.m3u8
-#EXTINF:-1 group-title="tvfix",明珠台
-https://live.tvfix.org/live/pearl/index.m3u8
-#EXTINF:-1 group-title="tvfix",娱乐新闻台
-https://live.tvfix.org/live/enews/index.m3u8
-#EXTINF:-1 group-title="tvfix",凤凰中文
-https://live.tvfix.org/live/fhzw/index.m3u8
-#EXTINF:-1 group-title="tvfix",凤凰资讯
-https://live.tvfix.org/live/fhzx/index.m3u8
-#EXTINF:-1 group-title="tvfix",凤凰香港
-https://live.tvfix.org/live/fhxg/index.m3u8
-#EXTINF:-1 group-title="tvfix",CCTV-1高清
-https://live.tvfix.org/live/cctv1hd/index.m3u8
-#EXTINF:-1 group-title="tvfix",CGTN纪录高清
-https://live.tvfix.org/live/cgtndochd/index.m3u8
-#EXTINF:-1 group-title="tvfix",CGTN高清
-https://live.tvfix.org/live/cgtnhd/index.m3u8
-#EXTINF:-1 group-title="tvfix",中国电影频道
-https://live.tvfix.org/live/cmc/index.m3u8
-#EXTINF:-1 group-title="tvfix",东方卫视高清
-https://live.tvfix.org/live/dfhd/index.m3u8
-#EXTINF:-1 group-title="tvfix",18台赛马频道
-https://live.tvfix.org/live/c18/index.m3u8
-#EXTINF:-1 group-title="tvfix",28台AI智慧赛马频道
-https://live.tvfix.org/live/c28/index.m3u8
-#EXTINF:-1 group-title="tvfix",SUPER Kids Channel
-https://live.tvfix.org/live/kid/index.m3u8
-#EXTINF:-1 group-title="tvfix",ZooMoo
-https://live.tvfix.org/live/zoo/index.m3u8
-#EXTINF:-1 group-title="tvfix",Nickelodeon
-https://live.tvfix.org/live/niko/index.m3u8
-#EXTINF:-1 group-title="tvfix",Nick Jr
-https://live.tvfix.org/live/nickjr/index.m3u8
-#EXTINF:-1 group-title="tvfix",美亚电影台(粤语)
-https://live.tvfix.org/live/mydy/index.m3u8
-#EXTINF:-1 group-title="tvfix",天映经典
-https://live.tvfix.org/live/tyjd/index.m3u8
-#EXTINF:-1 group-title="tvfix",ROCK Action
-https://live.tvfix.org/live/rockac/index.m3u8
-#EXTINF:-1 group-title="tvfix",PopC
-https://live.tvfix.org/live/popc/index.m3u8
-#EXTINF:-1 group-title="tvfix",KIX
-https://live.tvfix.org/live/kix/index.m3u8
-#EXTINF:-1 group-title="tvfix",Love Nature HD
-https://live.tvfix.org/live/lovenature/index.m3u8
-#EXTINF:-1 group-title="tvfix",Global Trekker
-https://live.tvfix.org/live/trekker/index.m3u8
-#EXTINF:-1 group-title="tvfix",ROCK綜藝娛樂
-https://live.tvfix.org/live/rockzy/index.m3u8
-#EXTINF:-1 group-title="tvfix",AXN
-https://live.tvfix.org/live/axn/index.m3u8
-#EXTINF:-1 group-title="tvfix",TVBS亚洲台
-https://live.tvfix.org/live/tvbs/index.m3u8
-#EXTINF:-1 group-title="tvfix",創世頻道
-https://live.tvfix.org/live/chuangshi/index.m3u8
-#EXTINF:-1 group-title="tvfix",FashionBox
-https://live.tvfix.org/live/fashion/index.m3u8
-#EXTINF:-1 group-title="tvfix",Mezzo Live HD
-https://live.tvfix.org/live/mezzon/index.m3u8
-
 
 #EXTINF:-1 group-title="台湾" tvg-id="10a30a5b8dc7ec56bf3ee3f434196eb9" tvg-chno="2",頻道總表
 http://118.170.45.178:9981/stream/channelid/1527423760?profile=pass
@@ -816,3 +751,91 @@ https://stream1.freetv.fun/espn-4.ctv
 #EXTINF:-1 group-title="其他", ESPN 5
 https://stream1.freetv.fun/espn-5.ctv
 
+#EXTINF:-1,tvg-id="体育频道|Astro Premier League 1" tvg-name="体育频道|Astro Premier League 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROPREMIERLEAGUE1.png" group-title="Smart☠️源",体育频道|Astro Premier League 1
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+#EXTINF:-1,tvg-id="体育频道|Astro EPL 1 backup" tvg-name="体育频道|Astro EPL 1 backup" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROEPL1BACKUP.png" group-title="Smart☠️源",体育频道|Astro EPL 1 backup
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
+#EXTINF:-1,tvg-id="体育频道|Astro Premier League 2" tvg-name="体育频道|Astro Premier League 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROPREMIERLEAGUE2.png" group-title="Smart☠️源",体育频道|Astro Premier League 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
+#EXTINF:-1,tvg-id="体育频道|Astro Grandstand" tvg-name="体育频道|Astro Grandstand" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROGRANDSTAND.png" group-title="Smart☠️源",体育频道|Astro Grandstand
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+#EXTINF:-1,tvg-id="体育频道|Astro Football" tvg-name="体育频道|Astro Football" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROFOOTBALL.png" group-title="Smart☠️源",体育频道|Astro Football
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+#EXTINF:-1,tvg-id="体育频道|Astro Sports Plus" tvg-name="体育频道|Astro Sports Plus" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROSPORTSPLUS.png" group-title="Smart☠️源",体育频道|Astro Sports Plus
+https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
+#EXTINF:-1,tvg-id="体育频道|Astro Badminton 1" tvg-name="体育频道|Astro Badminton 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON1.png" group-title="Smart☠️源",体育频道|Astro Badminton 1
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+#EXTINF:-1,tvg-id="体育频道|Astro Badminton 2" tvg-name="体育频道|Astro Badminton 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON2.png" group-title="Smart☠️源",体育频道|Astro Badminton 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+#EXTINF:-1,tvg-id="体育频道|Astro W-Sports" tvg-name="体育频道|Astro W-Sports" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROWSPORTS.png" group-title="Smart☠️源",体育频道|Astro W-Sports
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
+#EXTINF:-1,tvg-id="体育频道|Supersports 1" tvg-name="体育频道|Supersports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS1.png" group-title="Smart☠️源",体育频道|Supersports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Assp1
+#EXTINF:-1,tvg-id="体育频道|Supersports 2" tvg-name="体育频道|Supersports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS2.png" group-title="Smart☠️源",体育频道|Supersports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Assp2
+#EXTINF:-1,tvg-id="体育频道|Supersports 3" tvg-name="体育频道|Supersports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS3.png" group-title="Smart☠️源",体育频道|Supersports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Assp3
+#EXTINF:-1,tvg-id="体育频道|Supersports 4" tvg-name="体育频道|Supersports 4" tvg-logo="https://epg.112114.xyz/logo/体育频道|SUPERSPORTS4.png" group-title="Smart☠️源",体育频道|Supersports 4
+https://smart.pendy.dpdns.org/Smart.php?id=Assp4
+#EXTINF:-1,tvg-id="体育频道|WWE" tvg-name="体育频道|WWE" tvg-logo="https://epg.112114.xyz/logo/体育频道|WWE.png" group-title="Smart☠️源",体育频道|WWE
+https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+#EXTINF:-1,tvg-id="体育频道|Fight Sports" tvg-name="体育频道|Fight Sports" tvg-logo="https://epg.112114.xyz/logo/体育频道|FIGHTSPORTS.png" group-title="Smart☠️源",体育频道|Fight Sports
+https://smart.pendy.dpdns.org/Smart.php?id=Fs
+#EXTINF:-1,tvg-id="体育频道|NBA TV" tvg-name="体育频道|NBA TV" tvg-logo="https://epg.112114.xyz/logo/体育频道|NBATV.png" group-title="Smart☠️源",体育频道|NBA TV
+https://smart.pendy.dpdns.org/Smart.php?id=Nba
+#EXTINF:-1,tvg-id="体育频道|Astro Cricket" tvg-name="体育频道|Astro Cricket" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROCRICKET.png" group-title="Smart☠️源",体育频道|Astro Cricket
+https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+#EXTINF:-1,tvg-id="体育频道|Astro Golf" tvg-name="体育频道|Astro Golf" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROGOLF.png" group-title="Smart☠️源",体育频道|Astro Golf
+https://smart.pendy.dpdns.org/Smart.php?id=Agolf
+#EXTINF:-1,tvg-id="体育频道|Tnt Sports 1" tvg-name="体育频道|Tnt Sports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS1.png" group-title="Smart☠️源",体育频道|Tnt Sports 1
+https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
+#EXTINF:-1,tvg-id="体育频道|TNT Sports 2" tvg-name="体育频道|TNT Sports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS2.png" group-title="Smart☠️源",体育频道|TNT Sports 2
+https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
+#EXTINF:-1,tvg-id="体育频道|TNT Sports 3" tvg-name="体育频道|TNT Sports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS3.png" group-title="Smart☠️源",体育频道|TNT Sports 3
+https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
+#EXTINF:-1,tvg-id="体育频道|TNT Sports 4" tvg-name="体育频道|TNT Sports 4" tvg-logo="https://epg.112114.xyz/logo/体育频道|TNTSPORTS4.png" group-title="Smart☠️源",体育频道|TNT Sports 4
+https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
+#EXTINF:-1,tvg-id="体育频道|Sony Ten 1" tvg-name="体育频道|Sony Ten 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN1.png" group-title="Smart☠️源",体育频道|Sony Ten 1
+https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
+#EXTINF:-1,tvg-id="体育频道|Sony Ten 2" tvg-name="体育频道|Sony Ten 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN2.png" group-title="Smart☠️源",体育频道|Sony Ten 2
+https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
+#EXTINF:-1,tvg-id="体育频道|Sony Ten 3" tvg-name="体育频道|Sony Ten 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|SONYTEN3.png" group-title="Smart☠️源",体育频道|Sony Ten 3
+https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
+#EXTINF:-1,tvg-id="体育频道|SPOTV 1 HD" tvg-name="体育频道|SPOTV 1 HD" tvg-logo="https://epg.112114.xyz/logo/体育频道|SPOTV1.png" group-title="Smart☠️源",体育频道|SPOTV 1 HD
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
+#EXTINF:-1,tvg-id="体育频道|SPO TV 2" tvg-name="体育频道|SPO TV 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|SPOTV2.png" group-title="Smart☠️源",体育频道|SPO TV 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
+#EXTINF:-1,tvg-id="体育频道|Skysports F1" tvg-name="体育频道|Skysports F1" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSF1.png" group-title="Smart☠️源",体育频道|Skysports F1
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
+#EXTINF:-1,tvg-id="体育频道|Skysports Cricket" tvg-name="体育频道|Skysports Cricket" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSCRICKET.png" group-title="Smart☠️源",体育频道|Skysports Cricket
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
+#EXTINF:-1,tvg-id="体育频道|Skysports EPL" tvg-name="体育频道|Skysports EPL" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSEPL.png" group-title="Smart☠️源",体育频道|Skysports EPL
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="Smart☠️源",体育频道|Skysports Main Event
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
+#EXTINF:-1,tvg-id="体育频道|Skysports News" tvg-name="体育频道|Skysports News" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSNEWS.png" group-title="Smart☠️源",体育频道|Skysports News
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
+#EXTINF:-1,tvg-id="体育频道|Skysports Mix" tvg-name="体育频道|Skysports Mix" tvg-logo="https://epg.112114.xyz/logo/体育频道|SKYSPORTSMIX.png" group-title="Smart☠️源",体育频道|Skysports Mix
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
+#EXTINF:-1,tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育2.png" group-title="Smart☠️源",体育频道|爱尔达体育2台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+#EXTINF:-1,tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育3.png" group-title="Smart☠️源",体育频道|爱尔达体育3台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+#EXTINF:-1,tvg-id="体育频道|Rugby Pass TV" tvg-name="体育频道|Rugby Pass TV" tvg-logo="https://epg.112114.xyz/logo/体育频道|RUGBYPASSTV.png" group-title="Smart☠️源",体育频道|Rugby Pass TV
+https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
+#EXTINF:-1,tvg-id="体育频道|RTM Sports HD" tvg-name="体育频道|RTM Sports HD" tvg-logo="https://epg.112114.xyz/logo/体育频道|RTMSPORTS.png" group-title="Smart☠️源",体育频道|RTM Sports HD
+https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
+#EXTINF:-1,tvg-id="体育频道|Arena" tvg-name="体育频道|Arena" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA.png" group-title="Smart☠️源",体育频道|Arena
+https://smart.pendy.dpdns.org/Smart.php?id=Arena
+#EXTINF:-1,tvg-id="体育频道|Arena 2" tvg-name="体育频道|Arena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA2.png" group-title="Smart☠️源",体育频道|Arena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Arena2
+#EXTINF:-1,tvg-id="体育频道|BolaArena 1" tvg-name="体育频道|BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA1.png" group-title="Smart☠️源",体育频道|BolaArena 1
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
+#EXTINF:-1,tvg-id="体育频道|BolaArena 2" tvg-name="体育频道|BolaArena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA2.png" group-title="Smart☠️源",体育频道|BolaArena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
+#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 1" tvg-name="体育频道|Astro Beinsports 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS1.png" group-title="Smart☠️源",体育频道|Astro Beinsports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
+#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 2" tvg-name="体育频道|Astro Beinsports 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS2.png" group-title="Smart☠️源",体育频道|Astro Beinsports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
+#EXTINF:-1,tvg-id="体育频道|Astro Beinsports 3" tvg-name="体育频道|Astro Beinsports 3" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBEINSPORTS3.png" group-title="Smart☠️源",体育频道|Astro Beinsports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
