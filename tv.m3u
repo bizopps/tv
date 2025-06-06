@@ -34,13 +34,21 @@ https://7pal.short.gy/tntspts4
 https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="SPORTS", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="SPORTS", Sky Sports Premier League
-https://stream1.freetv.fun/sky-sport-premier-league-1.ctv
 
 #EXTINF:-1 tvg-id="Premier-Sports-1" tvg-name="Premier Sports 1" tvg-logo="https://assets.livednow.com/logo/Premier-Sports-1.png" group-title="SPORTS", Premier Sports 𝟙
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="Premier-Sports-2" tvg-name="Premier Sports 2" tvg-logo="https://assets.livednow.com/logo/Premier-Sports-2.png" group-title="SPORTS", Premier Sports 𝟚
 https://7pal.short.gy/prsport2
+
+#EXTINF:-1 tvg-id="Sky-Sports-1 NZ" tvg-name="Sky Sports 1 NZ" tvg-logo="" group-title="SPORTS", Sky Sports 𝟙 NZ
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="Sky-Sports-2 NZ" tvg-name="Sky Sports 2 NZ" tvg-logo="" group-title="SPORTS", Sky Sports 𝟚 NZ
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="Sky-Sports-3 NZ" tvg-name="Sky Sports 3 NZ" tvg-logo="" group-title="SPORTS", Sky Sports 𝟛 NZ
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="Sky-Sports-4 NZ" tvg-name="Sky Sports 4 NZ" tvg-logo="" group-title="SPORTS", Sky Sports 𝟜 NZ
+https://7pal.short.gy/skyspt4nz
+
 
 #EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="SPORTS", Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
@@ -84,7 +92,7 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 
 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="NEWS", 鳳凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
+https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
 
 #EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="NEWS", BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
