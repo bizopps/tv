@@ -1,26 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 group-title="LIVE", live 1 
-https://directplaylive.sbs/live/foot1/chunks.m3u8
-#EXTINF:-1 group-title="LIVE", live 2 
-https://directplaylive.sbs/live/foot2/chunks.m3u8
-#EXTINF:-1 group-title="LIVE", live 3 
-https://directplaylive.sbs/live/foot3/chunks.m3u8
-#EXTINF:-1 group-title="LIVE", live 4 
-https://directplaylive.sbs/live/foot4/chunks.m3u8
-#EXTINF:-1 group-title="LIVE", live 5 
-https://directplaylive.sbs/live/foot5/chunks.m3u8
-#EXTINF:-1 group-title="LIVE", live 6 
-https://directplaylive.sbs/live/foot6/chunks.m3u8
-#EXTINF:-1 group-title="LIVE", live 7 
-https://directplaylive.sbs/live/foot7/chunks.m3u8
-#EXTINF:-1 group-title="LIVE", live 8 
-https://directplaylive.sbs/live/foot8/chunks.m3u8
-#EXTINF:-1 group-title="LIVE", live 9 
-https://directplaylive.sbs/live/foot9/chunks.m3u8
-
-
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS", TNT Sport 𝟚
@@ -30,25 +10,80 @@ https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS", TNT Sport 𝟜
 https://7pal.short.gy/tntspts4
 
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="SPORTS",TNT Sport Ultimate 4K
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="SPORTS",Sky Sports Main Event 4K
+https://7pal.short.gy/SSMEuhd
+
 #EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="SPORTS", Sky Sports Football
 https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="SPORTS", Sky Sports Premier League
 https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="SPORTS", Sky Sports Tennis
+https://7pal.short.gy/ssportstn
 
 #EXTINF:-1 tvg-id="Premier-Sports-1" tvg-name="Premier Sports 1" tvg-logo="https://assets.livednow.com/logo/Premier-Sports-1.png" group-title="SPORTS", Premier Sports 𝟙
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="Premier-Sports-2" tvg-name="Premier Sports 2" tvg-logo="https://assets.livednow.com/logo/Premier-Sports-2.png" group-title="SPORTS", Premier Sports 𝟚
 https://7pal.short.gy/prsport2
 
-#EXTINF:-1 tvg-id="Sky-Sports-1 NZ" tvg-name="Sky Sports 1 NZ" tvg-logo="" group-title="SPORTS", Sky Sports 𝟙 NZ
+#EXTINF:-1 tvg-id="Sky-Sports-1 NZ" tvg-name="Sky Sports 1 NZ" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="SPORTS", Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="Sky-Sports-2 NZ" tvg-name="Sky Sports 2 NZ" tvg-logo="" group-title="SPORTS", Sky Sports 𝟚 NZ
+#EXTINF:-1 tvg-id="Sky-Sports-2 NZ" tvg-name="Sky Sports 2 NZ" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="SPORTS", Sky Sports 2 NZ
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="Sky-Sports-3 NZ" tvg-name="Sky Sports 3 NZ" tvg-logo="" group-title="SPORTS", Sky Sports 𝟛 NZ
+#EXTINF:-1 tvg-id="Sky-Sports-3 NZ" tvg-name="Sky Sports 3 NZ" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="SPORTS", Sky Sports 3 NZ
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="Sky-Sports-4 NZ" tvg-name="Sky Sports 4 NZ" tvg-logo="" group-title="SPORTS", Sky Sports 𝟜 NZ
+#EXTINF:-1 tvg-id="Sky-Sports-4 NZ" tvg-name="Sky Sports 4 NZ" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="SPORTS", Sky Sports 4 NZ
 https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="Sky-Sports-5 NZ" tvg-name="Sky Sports 5 NZ" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="SPORTS", Sky Sports 5 NZ
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="Sky-Sports-6 NZ" tvg-name="Sky Sports 6 NZ" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="SPORTS", Sky Sports 6 NZ
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="Sky-Sports-7 NZ" tvg-name="Sky Sports 7 NZ" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="SPORTS", Sky Sports 7 NZ
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 tvg-id="Sky-Sports-Premier-League NZ" tvg-name="Sky Sports Premier League NZ" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="SPORTS", Sky Sports Premier League NZ
+https://7pal.short.gy/skyspt8nz
 
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="SPORTS", Sportsnet ONE
+https://7pal.short.gy/sptsnet1
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="SPORTS", Sportsnet 360
+https://7pal.short.gy/sptsnet360
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://i.imgur.com/UDfhP02.png" group-title="SPORTS", Sportsnet Ontario
+https://7pal.short.gy/sptsneton
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="SPORTS", TSN1
+https://7pal.short.gy/tsn1ca
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/SWscg4w.png" group-title="SPORTS", TSN2
+https://7pal.short.gy/tsn2ca
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/KBQSJxA.png" group-title="SPORTS", TSN3
+https://7pal.short.gy/tsn3ca
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/ofAoWIg.png" group-title="SPORTS", TSN4
+https://7pal.short.gy/tsn4ca
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="SPORTS", TSN5
+https://7pal.short.gy/tsn5ca
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="SPORTS", CBS Sport Network
+https://7pal.short.gy/cbssptnw
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="SPORTS", ESPN 
+https://7pal.short.gy/espnus
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="SPORTS", ESPN2 
+https://7pal.short.gy/espn2
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="SPORTS", NBA TV
+https://7pal.short.gy/nbatvus
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg" group-title="SPORTS", NFL Network
+https://7pal.short.gy/nflnw
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="SPORTS", MLB Network
+https://7pal.short.gy/mlbnw
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png" group-title="SPORTS", NHL Network
+https://7pal.short.gy/nhlnw
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="SPORTS", Tennis Channel
+https://7pal.short.gy/tennisc
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="SPORTS",FS 1
+https://7pal.short.gy/fs1us
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="SPORTS", FS 2
+https://7pal.short.gy/fs2us
+#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-logo="https://i.imgur.com/74er6Jm.png" group-title="SPORTS", UFC 24/7
+https://7pal.short.gy/ufc247
 
 #EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="SPORTS", Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
@@ -92,7 +127,7 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 
 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="NEWS", 鳳凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
+https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
 
 #EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="NEWS", BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298

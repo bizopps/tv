@@ -1,6 +1,35 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日00:00-世俱杯小组赛-拜仁慕尼黑 vs 奥克兰城-赛场原声
+http://119.36.194.123:32432/migu/955238760?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日03:00-世俱杯小组赛-巴黎圣日耳曼 vs 马德里竞技-赛场原声
+http://119.36.194.123:32432/migu/955238041?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日06:00-世俱杯小组赛-帕尔梅拉斯 vs 波尔图-赛场原声
+http://119.36.194.123:32432/migu/955270860?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
+#EXTINF:-1 group-title="咪咕体育" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/6/6/100000000499106b9118.png" group-title="世俱杯", 06月16日10:00-世俱杯小组赛-博塔弗戈 vs 西雅图海湾人-赛场原声
+http://119.36.194.123:32432/migu/955270778?token=ufMITUPQX9__smjrpALv2g4ifCGl58RkOrf09wFXYrs2oMJk-TR_PMJ2FmVU32IvHxuc-7GQEgCCvn5exe1o9g&auth=
+
+#EXTINF:-1 group-title="LIVE", live 1 
+https://directplaylive.sbs/live/foot1/chunks.m3u8
+#EXTINF:-1 group-title="LIVE", live 2 
+https://directplaylive.sbs/live/foot2/chunks.m3u8
+#EXTINF:-1 group-title="LIVE", live 3 
+https://directplaylive.sbs/live/foot3/chunks.m3u8
+#EXTINF:-1 group-title="LIVE", live 4 
+https://directplaylive.sbs/live/foot4/chunks.m3u8
+#EXTINF:-1 group-title="LIVE", live 5 
+https://directplaylive.sbs/live/foot5/chunks.m3u8
+#EXTINF:-1 group-title="LIVE", live 6 
+https://directplaylive.sbs/live/foot6/chunks.m3u8
+#EXTINF:-1 group-title="LIVE", live 7 
+https://directplaylive.sbs/live/foot7/chunks.m3u8
+#EXTINF:-1 group-title="LIVE", live 8 
+https://directplaylive.sbs/live/foot8/chunks.m3u8
+#EXTINF:-1 group-title="LIVE", live 9 
+https://directplaylive.sbs/live/foot9/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
 http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
 #EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS", TNT Sport 𝟚
