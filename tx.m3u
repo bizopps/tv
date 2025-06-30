@@ -576,6 +576,9 @@ http://125.109.29.136:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
 http://t8622699o8.vicp.fun:60024/itv/3000000001000005308.m3u8?cdn=ystenlive
 #EXTINF:-1 group-title="其他", 咪咕直播 23
 http://36.105.100.208:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="其他", 咪咕直播 24
+http://home.kuaidi521.com:35455/itv/3000000001000005308.m3u8?cdn=ystenlive
+
 
 #EXTINF:-1 group-title="其他", UK | SUPERSPORT PREMIER LEAGUE
 http://vps-a8d30f71.vps.ovh.net/play/live.php?mac=00:1A:79:C0:34:48&stream=201144&extension=ts
