@@ -1,5 +1,5 @@
 {
-"spider": "https://github.com/kimwang1978/tvbox/raw/refs/heads/main/%E8%82%A5%E7%8C%AB/spider.jar",
+"spider": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
 "lives":[
 	{
 		"name": "YanG•体育",
@@ -21,38 +21,45 @@
 ],
 
 "sites":[
-	{
-		"key": "csp_LiteApple",
-		"name": "🍎┃苹果┃影视",
-		"type": 3,
-		"api": "csp_LiteApple",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	},
-	{
+    {
 		"key": "厂长",
-		"name": "🏭┃厂长┃影视",
+		"name": "📔厂长┃不卡",
 		"type": 3,
-		"playerType": "2",
-		"api": "csp_Czsapp",
+		"api": "csp_NewCzGuard",
+		"timeout": 10,
+		"playerType": 2,
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://www.czzy77.com/"
+		"changeable": 1
 	},
-	{
-		"key": "看球",
-		"name": "⚾┃看球┃直播",
+    {
+		"key": "88",
+		"name": "⚽88┃看球",
 		"type": 3,
-		"api": "csp_Kanqiu",
-		"searchable": 1,
-		"quickSearch": 1,
+		"api": "csp_Sir88Guard",
+		"timeout": 10,
+		"searchable": 0,
 		"changeable": 0,
-		"gridview": 3,
-		"style": {
-			"type": "list"
-		}
+		"style": {"type":"list"}
+	},
+    {
+		"key": "cctv",
+		"name": "📺央视┃大全",
+		"type": 3,
+		"api": "csp_CCTV",
+		"searchable": 0,
+		"filterable": 0,
+		"ext": "http://rihou.vip:88/hccx/央视大全.json",
+		"jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+    },
+	{
+		"key": "csp_SixV",
+		"name": "💕磁力┃4K",
+		"type": 3,
+		"api": "csp_SixV",
+		"searchable": 1,
+		"ext": "https://www.6vdy.org/",
+		"jar": "https://github.moeyy.xyz/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;64690215b0987464819e01f94be0251c"
 	}
 ],
 
