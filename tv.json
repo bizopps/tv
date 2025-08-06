@@ -34,7 +34,7 @@
 		"type":0, 
 		"url":"https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt", 
 		"playerType":1, 
-		"epg":"http://epg.112114.xyz/?ch={name}&date={date}", 
+		"epg":"http://epg.112114.xyz/?ch={name}&date={date}"
 	}
 ],
 
