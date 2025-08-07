@@ -1,7 +1,5 @@
 {
-"spider": "https://github.com/kimwang1978/tvbox/raw/refs/heads/main/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar",
-"wallpaper": "https://牛逼.王二小放牛娃.xyz/",
-"logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
+"spider": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
 "lives":[
 	{
 		"name": "YanG•体育",
@@ -41,103 +39,56 @@
 ],
 
 "sites":[
-	{
-		"key": "Wexerxiaoziyuan",
-		"name": "💓‍二小┃4K💓‍",
+    {
+		"key": "厂长",
+		"name": "📔厂长┃不卡",
 		"type": 3,
-		"api": "csp_WexerxiaoziyuanGuard",
+		"api": "csp_NewCzGuard",
+		"timeout": 10,
 		"searchable": 1,
+		"quickSearch": 1,
 		"changeable": 1
 	},
-	{
-		"key": "WexxzysGuard",
-		"name": "💓校长┃4K💓",
-		"type": 3,
-		"api": "csp_WexxzysGuard",
-		"searchable": 1,
-		"changeable": 1
-	},
-	{
+    {
 		"key": "玩偶",
-		"name": "💓‍玩偶┃4K💓‍",
+		"name": "👽玩偶哥哥┃4K弹幕",
 		"type": 3,
-		"api": "csp_WoggGuard",
+		"api": "csp_WoGGGuard",
 		"searchable": 1,
-		"changeable": 1
-	},
-	{
-		"key": "Wexzhizhen",
-		"name": "💓至臻┃4K💓",
-		"type": 3,
-		"api": "csp_WexzhizhenGuard",
-		"searchable": 1,
-		"changeable": 1
-	},
-	{
-		"key": "WexxiaomiziyuanGuard",
-		"name": "💓小米┃4K💓",
-		"type": 3,
-		"api": "csp_WexxiaomiziyuanGuard",
-		"searchable": 1,
-		"changeable": 1
-	},
-	{
-		"key": "Wexmuougg",
-		"name": "💓木偶┃4K💓",
-		"type": 3,
-		"api": "csp_WexmuouggGuard",
-		"searchable": 1,
-		"changeable": 1
-	},
-	{
-		"key": "WexfeimaoziyuanGuard",
-		"name": "💓肥猫┃4K💓",
-		"type": 3,
-		"api": "csp_WexfeimaoziyuanGuard",
-		"searchable": 1,
-		"changeable": 1
-	},
-	{
-		"key": "WextexiafanGuard",
-		"name": "💓下饭┃4K💓",
-		"type": 3,
-		"api": "csp_WextexiafanGuard",
-		"searchable": 1,
-		"changeable": 1
-	},
-
-	{
-		"key": "看球",
-		"name": "🌐88┃体育🌐",
-		"type": 3,
-		"api": "csp_KanqiuGuard",
-		"searchable": 1,
+		"quickSearch": 1,
 		"changeable": 0,
-		"style": {
-			"type": "list"
-		}
+		"ext": {
+			"Cloud-drive": "tvfan/Cloud-drive.txt",
+			"from": "4k|auto",
+			"siteUrl":"https://www.wogg.com/",
+			"danMu":"弹"}
+	},
+    {
+		"key": "YGP",
+		"name": "🚀叨观荐影┃预告片",
+		"type": 3,
+		"api": "csp_YGPGuard",
+		"searchable": 0,
+		"quickSearch": 0,
+		"changeable":0
 	},
 	{
-		"key": "926看球",
-		"name": "🌐926┃体育🌐",
+		"key": "drpy_js_奇珍异兽",
+		"name": "官源┃爱奇艺[js]",
 		"type": 3,
-		"api": "csp_Wex926kanqiuGuard",
-		"searchable": 1,
-		"changeable": 0,
-		"style": {
-			"type": "list"
-		}
+		"api": "https://github.com/qist/tvbox/raw/refs/heads/master/lib/drpy2.min.js",
+		"ext": "https://github.com/qist/tvbox/raw/refs/heads/master/js/奇珍异兽.js"
 	},
-	{
-		"key": "1直播",
-		"name": "🌐一直┃体育🌐",
+	
+    {
+		"key": "88",
+		"name": "⚽88┃看球",
 		"type": 3,
-		"api": "csp_Wexzhibo1Guard",
-		"searchable": 1,
+		"api": "csp_Sir88Guard",
+		"timeout": 10,
+		"searchable": 0,
 		"changeable": 0,
-		"style": {
-			"type": "list"
-		}
+		"style": {"type":"list"}
 	}
 ],
 
