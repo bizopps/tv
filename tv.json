@@ -16,13 +16,6 @@
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 	},
 	{
-		"name":"a", 
-		"type":0, 
-		"url":"https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u", 
-		"playerType":2, 
-		"epg":"http://epg.112114.xyz/?ch={name}&date={date}"
-	},
-	{
 		"name":"Sports", 
 		"type":0, 
 		"url":"https://raw.githubusercontent.com/kgasaz/4kuhd/master/sports-channels-4k.m3u", 
