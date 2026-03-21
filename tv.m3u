@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
+#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg"
 
 --- ⚽ Sports | 4K UHD
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
@@ -209,51 +209,48 @@ https://7pal.short.gy/event5
 
 
 
-#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="NEWS", 鳳凰中文
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•NEWS", 鳳凰中文
 https://t.freetv.fun/live/feng-huang-zhong-wen-sg.m3u8
 
-#EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="NEWS", BBC
+#EXTINF:-1 tvg-id="BBC-NEWS" tvg-name="BBC-NEWS" tvg-logo="https://www.logo.wine/a/logo/BBC_News/BBC_News-Logo.wine.svg" group-title="•NEWS", BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="NEWS", CNN
+#EXTINF:-1 tvg-id="CNN-NEWS" tvg-name="CNN-NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="•NEWS", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="NEWS", FOX
+#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" group-title="•NEWS", FOX
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
-#EXTINF:-1 tvg-id="CBC" tvg-name="CBC" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001937082113_33.png" group-title="NEWS", CBC
+#EXTINF:-1 tvg-id="CBC" tvg-name="CBC" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001937082113_33.png" group-title="•NEWS", CBC
 https://jmp2.uk/stvp-CABC2300009KD
+#EXTINF:-1 tvg-id="GLOBAL" tvg-name="GLOBAL" tvg-logo="https://docdog.top/logo/countries/canada/global.png" group-title="•NEWS", GLOBAL
+https://t.freetv.fun/live/global-news-1.m3u8 
 
-#EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cp24.png" group-title="NEWS", CP24
+#EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cp24.png" group-title="•NEWS", CP24
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57257
-#EXTINF:-1 tvg-id="GLOBAL" tvg-name="GLOBAL" tvg-logo="https://docdog.top/logo/countries/canada/global.png" group-title="NEWS", GLOBAL
-http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57435 
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央卫视", CCTV 1
-https://t.freetv.fun/live/cctv1-4.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央卫视", CCTV 4
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央卫视", CCTV 1
+https://t.freetv.fun/live/cctv-1hd.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•央卫视", CCTV 4
 https://t.freetv.fun/live/cctv4-3.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央卫视", CCTV 5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="•央卫视", CCTV 5
 https://t.freetv.fun/live/cctv5-5.m3u8
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央卫视", CCTV 5+
-https://t.freetv.fun/live/cctv5-plus-3.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央卫视", CCTV 13
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•央卫视", CCTV 5+
+https://t.freetv.fun/live/cctv5-plus-1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="•央卫视", CCTV 13
 https://t.freetv.fun/live/cctv-13hd.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央卫视", CCTV 16
-https://t.freetv.fun/live/cctv16.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="央卫视", 东方卫视
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="•央卫视", CCTV 16
+https://t.freetv.fun/live/cctv16-5.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="•央卫视", 东方卫视
 https://t.freetv.fun/live/dong-fang-wei-shi-1.m3u8
 
 
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩广场舞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩少年「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩竞技「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩篮球「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝕂-𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝕂-𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩少年「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩广场舞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚「移动」
@@ -302,12 +299,10 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟜「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟞「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟠「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟡「移动」
@@ -326,8 +321,7 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟞「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟠「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
