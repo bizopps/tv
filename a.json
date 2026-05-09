@@ -3,15 +3,9 @@
 	{
 		"name": "tv",
 		"type": 0,
-		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/tv504.m3u",
+		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/tv509.m3u",
+		"ua": "Goiptv/8.8.8",
 		"playerType": 2
-	},
-	{
-		"name": "alXStream",
-		"type": 0,
-		"url": "https://linksrate.xyz/69cd9685ab3a0/raw",
-		"playerType": 2, 
-		"epg":"https://pal6.short.gy/epgshare"
 	},
 	{
 		"name": "Judy",
@@ -20,6 +14,13 @@
 		"ua": "Goiptv/8.8.8",
 		"playerType": 2, 
 		"epg":"https://iptv.8plus.eu.org/xmltv.php"
+	},
+	{
+		"name": "alXStream",
+		"type": 0,
+		"url": "https://linksrate.xyz/69cd9685ab3a0/raw",
+		"playerType": 2, 
+		"epg":"https://pal6.short.gy/epgshare"
 	},
 	{
 		"name": "YanG•Gather",
