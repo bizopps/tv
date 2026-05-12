@@ -3,7 +3,7 @@
 	{
 		"name": "tv",
 		"type": 0,
-		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/tv509.m3u",
+		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/tv.m3u",
 		"ua": "Goiptv/8.8.8",
 		"playerType": 2
 	},
