@@ -1,0 +1,69 @@
+{
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.json",
+            "name": "🐣IPTV🐣"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/franksun1211/TVBOX/refs/heads/main/0630.json",
+            "name": "🐣大乔0630🐣"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/franksun1211/TVBOX/refs/heads/main/WXER.json",
+            "name": "🐣大乔WXER🐣"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/franksun1211/TVBOX/refs/heads/main/cj.json",
+            "name": "🐣大乔cj🐣"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
+            "name": "🐣大乔fuli🐣"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/cr.json",
+            "name": "🐣hd9211cr🐣"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/duocang1.json",
+            "name": "🐣hd9211duocang1🐣"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/zy.json",
+            "name": "🐣hd9211zy🐣"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/%E4%BC%98%E8%B4%A8.json",
+            "name": "🐣hd9211yz🐣"
+        },
+        {
+            "url": "https://kjsc0310.github.io/tvy/s2.json",
+            "name": "🐣虞姬带飞🐣"
+        }
+    ]
+
+	"storeHouse": 
+	[
+		{
+			"sourceName": "🏆绿茶①🏆",
+			"sourceUrl": "https://pan.css.lc/api/v3/file/get/90002/%E9%A3%9E%E6%9C%BA%E4%BB%9323.txt?sign=TGawyoffB7Ky5LLeND-J0-FiMqcsc1YD5n4QzyCdywY%3D%3A0"
+		},
+		{
+			"sourceName": "🏆绿茶②🏆",
+			"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/68875/%E7%BB%BF%E8%8C%B62.txt?sign=LFLHEA346oBByMf_r92ak2OLwWQze5RKcSCeFVfSkgw%3D%3A0"
+		},
+		{
+			"sourceName": "🏆绿茶③🏆",
+			"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"
+		},
+		{
+			"sourceName": "🏆绿茶④🏆",
+			"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/71443/%E7%A6%8F%E5%88%A9%E5%8D%95%E4%BB%93.txt?sign=dcjX-jM4UZ34KMCiXtxf2bjnUB2kq85f0N9SI5kjzCg%3D%3A0"
+		},
+		{
+			"sourceName": "🏆绿茶⑤🏆",
+			"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B63.txt?sign=baO6aqW2E4MdRJpIjaJCvuj3UZ2T5lAGp1LlLcM9GPU%3D%3A0"
+		}
+	]
+}
+
