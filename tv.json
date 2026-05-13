@@ -1,87 +1,95 @@
 {
-"spider": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
 "lives":[
-	{
-		"name": "YanG•体育",
-		"type": 0,
-		"url": "https://tv.iill.top/m3u/Sport",
-		"ua": "okhttp/3.15",
-		"playerType": 2
-	},
 	{
 		"name": "tv",
 		"type": 0,
 		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/tv.m3u",
-		"playerType": 2,
-		"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+		"ua": "Goiptv/8.8.8",
+		"playerType": 2
+	},
+
+	{
+		"name": "移动咪咕直播",
+		"urls": [
+			{
+				"name": "咪咕高清",
+				"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u",
+				"header": {
+					"Host": "base-v4v6-cm-miguvideo.e.cdn.chinamobile.com",
+					"User-Agent": "Mozilla/5.0"
+				}
+			}
+		]
+	},
+	
+	{
+		"name": "Judy",
+		"type": 0,
+		"url": "https://iptv.8plus.eu.org/get.php?username=tg_rp4ca7d6&password=5nszzg556yj3&type=m3u_plus",
+		"ua": "Goiptv/8.8.8",
+		"playerType": 2, 
+		"epg":"https://iptv.8plus.eu.org/xmltv.php"
 	},
 	{
-		"name":"Sports", 
-		"type":0, 
-		"url":"https://raw.githubusercontent.com/kgasaz/4kuhd/master/sports-channels-4k.m3u", 
-		"playerType":2, 
-		"epg":"http://epg.112114.xyz/?ch={name}&date={date}"
+		"name": "alXStream",
+		"type": 0,
+		"url": "https://linksrate.xyz/69cd9685ab3a0/raw",
+		"playerType": 2, 
+		"epg":"https://pal6.short.gy/epgshare"
 	},
 	{
-		"name":"综合", 
+		"name": "YanG•Gather",
+		"type": 0,
+		"url": "https://tv.iill.top/m3u/Gather",
+		"playerType": 2, 
+		"epg":"https://epg.iill.top/epg.xml.gz"
+	},
+	{
+		"name":"a", 
 		"type":0, 
-		"url":"https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt", 
-		"playerType":1, 
-		"epg":"http://epg.112114.xyz/?ch={name}&date={date}"
+		"url":"https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u", 
+		"playerType":2
 	}
 ],
 
 "sites":[
-    {
-		"key": "厂长",
-		"name": "📔厂长┃不卡",
+	{
+		"key": "Douban",
+		"name": "豆瓣｜推荐",
 		"type": 3,
-		"api": "csp_NewCzGuard",
-		"timeout": 10,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1
-	},
-    {
-		"key": "玩偶",
-		"name": "👽玩偶哥哥┃4K弹幕",
-		"type": 3,
-		"api": "csp_WoGGGuard",
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 0,
-		"ext": {
-			"Cloud-drive": "tvfan/Cloud-drive.txt",
-			"from": "4k|auto",
-			"siteUrl":"https://www.wogg.com/",
-			"danMu":"弹"}
-	},
-    {
-		"key": "YGP",
-		"name": "🚀叨观荐影┃预告片",
-		"type": 3,
-		"api": "csp_YGPGuard",
+		"indexs": 1,
 		"searchable": 0,
-		"quickSearch": 0,
-		"changeable":0
+		"filterable": 1,
+		"api": "csp_Douban",
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/spider.jar",
+		"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/MYER/json/douban.json"
 	},
 	{
-		"key": "drpy_js_奇珍异兽",
-		"name": "官源┃爱奇艺[js]",
+		"key": "UVod",
+		"name": "🥇優視頻✨",
 		"type": 3,
-		"api": "https://github.com/qist/tvbox/raw/refs/heads/master/lib/drpy2.min.js",
-		"ext": "https://github.com/qist/tvbox/raw/refs/heads/master/js/奇珍异兽.js"
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/PY/UVod.py",
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/pg.jar"
 	},
-	
-    {
-		"key": "88",
-		"name": "⚽88┃看球",
+	{
+		"key": "爱弹幕",
+		"name": "🥇💢爱弹幕✨｜动漫",
 		"type": 3,
-		"api": "csp_Sir88Guard",
-		"timeout": 10,
-		"searchable": 0,
-		"changeable": 0,
-		"style": {"type":"list"}
+		"api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+		"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/爱弹幕.js"
+	},
+	{
+		"key": "路漫漫",
+		"name": "🥇💢路漫漫✨｜动漫",
+		"type": 3,
+		"api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+		"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
 	}
 ],
 
