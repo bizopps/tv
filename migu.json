@@ -1,0 +1,25 @@
+{
+"lives":[
+	{
+		"name": "移动咪咕直播",
+		"urls": [
+			{
+				"name": "咪咕高清",
+				"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u",
+				"header": {
+					"Host": "base-v4v6-cm-miguvideo.e.cdn.chinamobile.com",
+					"User-Agent": "Mozilla/5.0"
+				}
+			}
+		]
+	}
+],
+
+"rules":[
+	{
+		"hosts": [
+			"cache.ott.fifalive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"
+		]
+	}
+]
+}
