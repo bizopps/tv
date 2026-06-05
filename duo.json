@@ -1,0 +1,6 @@
+{
+	"storeHouse": [
+		{"sourceName": "DanCang",  "sourceUrl": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/dan.json"},
+		{"sourceName": "DanCang2", "sourceUrl": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/dan2.json"}
+	]
+}

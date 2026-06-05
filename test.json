@@ -1,0 +1,47 @@
+{
+"lives":[
+	{
+		"name": "移动咪咕直播",
+		"type": 0, 
+		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u"
+	},
+    {
+      "name": "综合直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    }
+],
+
+"headers": [
+	{
+		"host": "hlsztemgsplive.miguvideo.com",
+		"header": {
+			"User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+		}
+	}
+],
+
+"rules": [
+	{
+		"name": "proxy",
+		"hosts": [
+			"hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
+			//"cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
+			"cache.ott.fifalive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"
+		]
+	}
+],
+
+//"hosts":[
+	//"cache.ott.fifalive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"
+	//"*.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"
+	//"cache.ott.fifalive.itv.cmvideo.cn=39.136.124.70"
+	//"cache.ott.*.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"
+//	"cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+//],
+
+"ads": [
+]
+}
