@@ -16,7 +16,7 @@
 
 "sites":[
 {"key":"电影天堂","name":"电影天堂","type":1,"timeout":15,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod"}
-]
+],
 
 "headers": [
 	{
