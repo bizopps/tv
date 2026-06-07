@@ -1,4 +1,6 @@
 {
+"spider": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+
 "lives":[
 	{
 		"name": "tv",
@@ -40,49 +42,85 @@
 
 "sites":[
 	{
-		"key": "UVod",
-		"name": "🥇優視頻✨",
+		"key": "葫芦",
+		"name": "🪽葫芦┃1080P",
 		"type": 3,
-		"timeout": 15,
-		"api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/PY/UVod.py",
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/pg.jar"
+		"api": "csp_AppGet",
+		"ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0"
 	},
 	{
-		"key": "路漫漫",
-		"name": "🥇路漫漫✨｜动漫",
+		"key": "新首发",
+		"name": "👻标清┃1080P",
 		"type": 3,
-		"timeout": 15,
-		"api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
-		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-		"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
+		"api": "csp_AppGet",
+		"ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
 	},
-	
-{"key":"金牌","name":"🥇嗷嗚金牌✨","type":3,"timeout":15,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/金牌.py","jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
-{"key":"永乐","name":"🥇嗷嗚永乐✨","type":3,"timeout":15,"api":"https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/drpy_js/永乐.py","jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/VS194-SU147/yt.jar"},
-
-    {
-		"key": "瓜子影视",
-		"name": "🍉GZ┃HD2K",
+	{
+		"key": "四叶草",
+		"name": "🍀幸运┃1080P",
 		"type": 3,
-		"timeout": 30,
-		"api": "csp_Gz360",
-		"jar": "https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-    },
-    {
-		"key": "金牌影视",
-		"name": "🔦金牌┃HD2K",
+		"api": "csp_AppGet",
+		"ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
+	},
+	{
+		"key": "爱营",
+		"name": "💥爱影┃1080P",
 		"type": 3,
-		"timeout": 30,
-		"api": "csp_Jpys",
-		"jar": "https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar",
-		"ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-    },
-	
-{"key":"电影天堂","name":"电影天堂","type":1,"timeout":15,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod"},
-{"key":"新浪资源","name":"新浪资源","type":1,"timeout":15,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/"},
-{"key":"爱奇艺资源","name":"爱奇艺资源","type":1,"timeout":15,"api":"https://iqiyizyapi.com/api.php/provide/vod/"},
-//{"key":"百度资源","name":"百度资源","type":1,"timeout":15,"api":"https://api.apibdzy.com/api.php/provide/vod/"},
-
+		"searchable": 1,
+		"changeable": 1,
+		"api": "csp_AppGet",
+		"ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
+	},
+	{
+		"key": "听心99",
+		"name": "🦉欣欣┃1080P",
+		"type": 3,
+		"api": "csp_App99",
+		"ext": {
+			"host": "https://api.12321app.com",
+			"LoginPath": "/app/log",
+			"version": "0b4328287a5d953e",
+			"appkey": "a0a18659a9977a47e53442cd084b536c",
+			"versionName": "2.8.1",
+			"name": "听心视频",
+			"package": "com.iksp.adsys.jjsp",
+			"buildNumber": "2001",
+			"buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
+		}
+	},
+	{
+		"key": "追番达人99",
+		"name": "🐎追番┃1080P",
+		"type": 3,
+		"api": "csp_App99",
+		"ext": {
+			"host": "https://app2026.ystva.com",
+			"LoginPath": "/app/log",
+			"version": "f341a4e57976d59e",
+			"appkey": "f3a8a193a7dc782cbc294159fcd91faf",
+			"versionName": "6.1.1",
+			"name": "追番达人",
+			"package": "com.yuaiweiwu.aixue.zfdr",
+			"buildNumber": "2001",
+			"buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
+		}
+	},
+	{
+		"key": "88看球",
+		"name": "🏀体育┃1080P",
+		"type": 3,
+		"api": "csp_Kanqiu",
+		"style": {
+			"type": "rect",
+			"ratio": 1.333
+		},
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"timeout": 12,
+		"order_num": 0,
+		"changeable": 0
+	},
 	{
 		"key": "88直播",
 		"name": "🥇⚽88✨┃FTY",
