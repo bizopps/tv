@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://pal6.short.gy/epgshare"
 
---- 🥇 NEWS
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•NEWS", 鳳凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-id="BBC-NEWS" tvg-name="BBC-NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/BBC_Worldwide_Logo.svg/500px-BBC_Worldwide_Logo.svg.png" group-title="•NEWS", BBC
@@ -14,7 +13,6 @@ https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 https://jmp2.uk/stvp-CABC2300009KD
 
 
---- 🥇 央卫视
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•央卫视", 鳳凰中文
 https://iptv.yang-1989.eu.org/phenix/fhzw
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央卫视", CCTV 1
@@ -33,7 +31,6 @@ https://t.freetv.fun/live/cctv16-5.m3u8
 https://cdn.19891230.eu.org/api/dfws/index.m3u8
 
 
---- ✨ 咪咕体育
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育 1" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育 2" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 2
@@ -115,7 +112,6 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 
 
---- ⚽ Sports | 4K UHD
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 https://pal6.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports | 4K UHD",Sky Sports F1 UHD
@@ -145,7 +141,6 @@ https://pal6.short.gy/ZiggoSport
 #EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="Sports | 4K UHD",Sport5 4K
 https://pal6.short.gy/5sport
 
---- ⚽ Sports | EPL
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Sports | EPL", Hub Premier1 FHD
 https://pal6.short.gy/HPremier1
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="Sports | EPL", Hub Premier2 FHD
@@ -169,7 +164,6 @@ https://pal6.short.gy/astross4
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="Sports | EPL", USA NetWork FHD
 https://pal6.short.gy/usanetwork
 
---- ⚽ Sports | UK
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports | UK", TNT Sports 1 FHD
 https://pal6.short.gy/tntspts1
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports | UK", TNT Sports 2 FHD
@@ -203,7 +197,6 @@ https://pal6.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="https://pixvid.org/images/2025/01/23/ssports-bo.png" group-title="Sports | UK", Sky Sports Box Office
 https://pal6.short.gy/ssportsbo
 
---- ⚽ Sports | NZ
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ", Sky Sport1 NZ FHD
 https://pal6.short.gy/skyspt1nz
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ", Sky Sport2 NZ FHD
@@ -221,7 +214,6 @@ https://pal6.short.gy/skyspt7nz
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports | NZ", Sky Sport Premier League FHD
 https://pal6.short.gy/skyspt8nz
 
---- ⚽ Sports | AU
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="Sports | AU", Fox Sports 501
 https://pal6.short.gy/fox501au
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="Sports | AU", Fox Sports 502
@@ -237,7 +229,6 @@ https://pal6.short.gy/fox506au
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="Sports | AU", Fox Sports 507
 https://pal6.short.gy/fox507au
 
---- ⚽ Sports | CA
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="Sports | CA", Sportsnet ONE
 https://pal6.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="Sports | CA", Sportsnet 360
@@ -255,7 +246,6 @@ https://pal6.short.gy/tsn4ca
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Sports | CA", TSN5
 https://pal6.short.gy/tsn5ca
 
---- ⚽ Sports | US
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports | US", CBS Sport Network
 https://pal6.short.gy/cbssptnw
 #EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports | US", MSG
@@ -291,7 +281,6 @@ https://pal6.short.gy/fs1us
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="Sports | US", FS 2
 https://pal6.short.gy/fs2us
 
---- ⚽ Sports | World
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports | World", Premier Sports 1 FHD
 https://pal6.short.gy/prsport1
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports | World", Premier Sports 2 FHD
@@ -307,7 +296,6 @@ https://pal6.short.gy/arenas3
 #EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/dEYWW81.png" group-title="Sports | World",Arena Sport 4 FHD
 https://pal6.short.gy/arenas4
 
---- ⚽ Sports | Events
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
 https://pal6.short.gy/event1
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
