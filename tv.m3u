@@ -112,6 +112,17 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 
 
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.ibb.co/KzBL283H/fifa-world-cup-2026.png" group-title="World Cup 2026", Event 1 - iTV1
+https://pal6.short.gy/event1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.ibb.co/KzBL283H/fifa-world-cup-2026.png" group-title="World Cup 2026", Event 2 - BBC1
+https://pal6.short.gy/event2
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.ibb.co/KzBL283H/fifa-world-cup-2026.png" group-title="World Cup 2026", Event 3 - BBC2
+https://pal6.short.gy/event3
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.ibb.co/KzBL283H/fifa-world-cup-2026.png" group-title="World Cup 2026", Event 4
+https://pal6.short.gy/event4
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.ibb.co/KzBL283H/fifa-world-cup-2026.png" group-title="World Cup 2026", Event 5
+https://pal6.short.gy/event5
+
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 https://pal6.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports | 4K UHD",Sky Sports F1 UHD
@@ -295,16 +306,5 @@ https://pal6.short.gy/arenas2
 https://pal6.short.gy/arenas3
 #EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://i.imgur.com/dEYWW81.png" group-title="Sports | World",Arena Sport 4 FHD
 https://pal6.short.gy/arenas4
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
-https://pal6.short.gy/event1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
-https://pal6.short.gy/event2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 3
-https://pal6.short.gy/event3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
-https://pal6.short.gy/event4
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 5
-https://pal6.short.gy/event5
 
 
