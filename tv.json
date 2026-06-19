@@ -7,13 +7,6 @@
 		"ua": "Goiptv/8.8.8"
 	},
 	{
-		"name": "Judy",
-		"type": 0,
-		"url": "https://iptv.8plus.eu.org/get.php?username=tg_rp4ca7d6&password=5nszzg556yj3&type=m3u_plus",
-		"ua": "Goiptv/8.8.8",
-		"epg": "https://iptv.8plus.eu.org/xmltv.php"
-	},
-	{
 		"name": "alXStream",
 		"type": 0,
 		"url": "https://7pal.short.gy/alxstream",
