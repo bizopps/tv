@@ -37,7 +37,7 @@
 		"name": "🍀幸运┃1080P┃小米",
 		"type": 3,
 		"api": "csp_AppGet",
-		"jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+		"jar": "https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3",
 		"ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
 	},
 	{
@@ -45,7 +45,7 @@
 		"name": "💥爱影┃1080P┃小米",
 		"type": 3,
 		"api": "csp_AppGet",
-		"jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+		"jar": "https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3",
 		"ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
 	},
 	{
@@ -53,7 +53,7 @@
 		"name": "🦉欣欣┃1080P┃小米",
 		"type": 3,
 		"api": "csp_App99",
-		"jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+		"jar": "https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3",
 		"ext": {
 			"host": "https://api.12321app.com",
 			"LoginPath": "/app/log",
@@ -67,13 +67,21 @@
 		}
 	},
 	{
+		"key": "山楂",
+		"name": "🔴山楂┃1080P┃小米",
+		"type": 3,
+		"timeout": 15,
+		"api": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/shanzha.py",
+		"ext": ""
+	},
+	{
 		"key": "88看球",
 		"name": "🏀体育┃1080P┃小米",
 		"type": 3,
 		"timeout": 15,
 		"searchable": 0,
 		"api": "csp_Kanqiu",
-		"jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+		"jar": "https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3",
 		"style": {
 			"type": "list"
 		}
