@@ -22,32 +22,6 @@
       "playerType": 2
     },
     {
-      "name": "Live「直播」",
-      "type": 3,
-      "url": "https://live.yang-1989.eu.org/Live.m3u",
-      "ua": "okhttp/3.8.1",
-      "timeout": 10,
-      "playerType": 2
-    },
-    {
-      "name": "myTV「香港」",
-      "type": 3,
-      "url": "https://iptv.yang-1989.xyz/myTV/playlist.m3u",
-      "epg":"https://material.yang-1989.xyz/epg.xml.gz",
-      "ua": "okhttp/3.8.1",
-      "timeout": 10,
-      "playerType": 2
-    },
-    {
-      "name": "Sport「体育」",
-      "type": 3,
-      "url": "https://cdn-1.yang-1989.xyz/sprt/playlist.m3u",
-      "epg":"https://material.yang-1989.xyz/epg.xml.gz",
-      "ua": "okhttp/3.8.1",
-      "timeout": 10,
-      "playerType": 2
-    },
-    {
 		"name": "ngz",
 		"type": 3,
 		"url": "http://38.75.136.137:88/api/tvlist.php",
