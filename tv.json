@@ -31,6 +31,23 @@
 ],
 
 "sites":[
+	{"key":"电影天堂","name":"电影天堂","type":1,"timeout":15,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod"},
+	{
+		"key": "葫芦",
+		"name": "🪽葫芦┃1080P┃小米",
+		"type": 3,
+		"api": "csp_AppGet",
+		"jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1782118073266_ZXYRUXPn.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71",
+		"ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0"
+	},
+	{
+		"key": "新首发",
+		"name": "👻标清┃1080P┃小米",
+		"type": 3,
+		"api": "csp_AppGet",
+		"jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1782118073266_ZXYRUXPn.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71",
+		"ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+	},
 	{
 		"key": "四叶草",
 		"name": "🍀幸运┃1080P┃小米",
@@ -64,6 +81,39 @@
 			"package": "com.iksp.adsys.jjsp",
 			"buildNumber": "2001",
 			"buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
+		}
+	},
+	{
+		"key": "剧圈99",
+		"name": "🫎剧圈┃1080P┃小米",
+		"type": 3,
+		"api": "csp_App99",
+		"jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1782118073266_ZXYRUXPn.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71",
+		"ext": {
+			"host": "http://124.221.3.182:19987/app/bn",
+			"appkey": "d1f0c269eab74d93821fffc9befdbbba",
+			"versionName": "1.2.0",
+			"name": "剧圈圈",
+			"package": "com.qingtangxiaozhuan.xyz",
+			"buildNumber": "2002",
+			"buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+		}
+	},
+	{
+		"key": "顾我99",
+		"name": "🖼️顾我┃1080P┃小米",
+		"type": 3,
+		"api": "csp_App99",
+		"jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1782118073266_ZXYRUXPn.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71",
+		"ext": {
+			"host": "http://117.50.200.113:19987/app/bn",
+			"LoginPath": "/app/log",
+			"appkey": "040f9b1bc5e942569b5c3e63943306ab",
+			"versionName": "4.3.1",
+			"name": "顾我追剧",
+			"package": "com.guwozhuijux.app",
+			"buildNumber": "2001",
+			"buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
 		}
 	},
 	{
