@@ -2,33 +2,28 @@
 "lives":[
 	{
 		"name": "Judy",
-		"type": 0,
+		"type": 3,
 		"url": "https://iptv.8plus.eu.org/get.php?username=tg_rp4ca7d6&password=5nszzg556yj3&type=m3u_plus",
+		"epg": "https://iptv.8plus.eu.org/xmltv.php",
 		"ua": "Goiptv/8.8.8",
-		"epg": "https://iptv.8plus.eu.org/xmltv.php"
+		"playerType": 2
 	},
 	{
 		"name": "移动咪咕直播",
 		"type": 0, 
-		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u"
+		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u",
+		"playerType": 2
 	},
     {
-      "name": "综合直播",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
+		"name": "综合直播",
+		"type": 0,
+		"url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+		"ua": "bingcha/1.1 (mianfeifenxiang)",
+		"playerType": 2
     }
 ],
 
 "sites":[
-{"key":"*草榴视频","name":"*草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":0,"quickSearch":0},
-{"key":"*亚洲成人在线","name":"*亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":0,"quickSearch":0},
-{"key":"*天噜啦资源","name":"*天噜啦资源","type":0,"api":"http://www.987caiji.com/api/max.php","searchable":0,"quickSearch":0},
-{"key":"*99资源","name":"*99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*010爱资源","name":"*010爱资源","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":0,"quickSearch":0},
-{"key":"*痴汉队长","name":"*痴汉队长","type":1,"api":"https://javcaptain.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*抖阴视频","name":"*抖阴视频","type":1,"api":"https://www.888dav.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 	{
 		"key": "UVod",
 		"name": "🥇優視頻✨",
@@ -78,7 +73,13 @@
 	{
 		"host": "hlsztemgsplive.miguvideo.com",
 		"header": {
-			"User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+			"User-Agent": "bingcha/1.1 (mianfeifenxiang)"
+		}
+	},
+	{
+		"host": "cache.ott.fifalive.itv.cmvideo.cn",
+		"header": {
+			"User-Agent": "okhttp/3.8.1"
 		}
 	}
 ],

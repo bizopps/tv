@@ -5,20 +5,19 @@
 	{
 		"name": "tv",
 		"type": 0,
-		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/tv.m3u",
-		"ua": "Goiptv/8.8.8"
+		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/tv.m3u"
 	},
 	{
 		"name": "alXStream",
 		"type": 0,
 		"url": "https://7pal.short.gy/alxstream",
-		"epg":"https://pal6.short.gy/epgshare"
+		"epg": "https://pal6.short.gy/epgshare"
 	},
     {
       "name": "Gather",
       "type": 3,
       "url": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "epg":"https://material.yang-1989.xyz/epg.xml.gz",
+      "epg": "https://material.yang-1989.xyz/epg.xml.gz",
       "ua": "okhttp/3.8.1",
       "timeout": 10,
       "playerType": 2
@@ -27,8 +26,8 @@
 		"name": "ngz",
 		"type": 3,
 		"url": "http://38.75.136.137:88/api/tvlist.php",
-		"ua": "okhttp/3.15",
-		"epg": "http://epg.51zmt.top:8000/e.xml"
+		"epg": "http://epg.51zmt.top:8000/e.xml",
+		"ua": "okhttp/3.15"
     }
 ],
 
