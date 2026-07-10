@@ -1,5 +1,5 @@
 {
-"spider": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1783598800596_Ls2Xrxgx.jar;md5;5f850145296b17847eb5306865f90b32",
+"spider": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e",
 
 "lives":[
 	{
@@ -109,6 +109,14 @@
 		"timeout": 15,
 		"api": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/shanzha.py",
 		"ext": ""
+	},
+	{
+		"key": "枫叶影视",
+		"name": "🍁枫叶影视┃小米",
+		"type": 3,
+		"api": "csp_FengYe",
+		"filterable": 0,
+		"ext": "https://www.vip1949.com/"
 	},
 	{
 		"key": "天堂",
