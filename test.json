@@ -22,14 +22,13 @@
 ],
 
 "sites":[
-	{
-		"key": "csp_xpath_xxj",
-		"name": "新香蕉(XP)",
-		"type": 3,
-		"api": "csp_XPathMacFilter",
-		"jar": "https://gitea.com/99/j/raw/branch/main/pglblb_20220619.txt;md5;065C92F7720FA01E64086455D201CFE1",
-		"ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/2024xxj.json"
-    },	
+{"key":"*草榴视频","name":"*草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"*亚洲成人在线","name":"*亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"*天噜啦资源","name":"*天噜啦资源","type":0,"api":"http://www.987caiji.com/api/max.php","searchable":0,"quickSearch":0},
+{"key":"*99资源","name":"*99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*010爱资源","name":"*010爱资源","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":0,"quickSearch":0},
+{"key":"*痴汉队长","name":"*痴汉队长","type":1,"api":"https://javcaptain.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*抖阴视频","name":"*抖阴视频","type":1,"api":"https://www.888dav.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 	{
 		"key": "UVod",
 		"name": "🥇優視頻✨",

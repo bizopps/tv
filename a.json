@@ -1,65 +1,45 @@
 {
 "lives":[
 	{
-		"name":"a", 
-		"type":0, 
-		"url":"https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u", 
-		"playerType":2
+		"name": "a", 
+		"type": 0, 
+		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u", 
+		"playerType": 2
 	}
 ],
 
 "sites":[
+{"key":"玉兔资源", "name":"玉兔资源", "api":"https://apiyutu.com/api.php/provide/vod/", "type":1},
+
     {
       "key": "香蕉资源",
       "name": "香蕉资源",
-      "type": 0,
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 0
+      "type": 0
     },
 	{
       "key": "杏吧资源",
       "name": "杏吧资源",
-      "type": 0,
       "api": "https://xingba222.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 0
+      "type": 0
     },
     {
-      "key": "*91麻豆",
-      "name": "*91麻豆",
-      "type": 1,
+      "key": "91麻豆",
+      "name": "91麻豆",
       "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
+      "type": 1
     },
     {
-      "key": "*乐播资源",
-      "name": "🔞乐播资源",
-      "type": 1,
+      "key": "乐播资源",
+      "name": "乐播资源",
       "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "type": 1
     },
     {
-      "key": "大地采集",
-      "name": "🔞大地av",
-      "type": 0,
-      "api": "https://dadiapi.com/apple_m3u8.php",
-      "playUrl": "https://play.dadiapi.com/watch?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*番号资源",
-      "name": "🔞番号资源",
-      "type": 1,
+      "key": "番号资源",
+      "name": "番号资源",
       "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "type": 1
 	}
 ]
 }
