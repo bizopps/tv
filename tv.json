@@ -34,7 +34,7 @@
 "sites":[
 	{
 		"key": "更新",
-		"name": "🐮【更新日期:20260710】🐮",
+		"name": "🐮【更新日期:20260715】🐮",
 		"type": 3,
 		"searchable": 0,
 		"quickSearch": 0,
@@ -49,13 +49,6 @@
 		"type": 3,
 		"api": "csp_AppGet",
 		"ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
-	},
-	{
-		"key": "四叶草",
-		"name": "🍀幸运┃小米",
-		"type": 3,
-		"api": "csp_AppGet",
-		"ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/kkk.txt|8eeObuwrmS3lRDEs|V122|okhttp/3.10.0"
 	},
 	{
 		"key": "爱营",
@@ -160,6 +153,18 @@
 			"site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
 			"version": "3.0.2.1",
 			"decrypt": "1"
+		}
+	},
+	{
+		"key": "Live",
+		"name": "🚑 LIVE|直播┃小米",
+		"type": 3,
+		"api": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/Live.py",
+		"searchable": 0,
+		"quickSearch": 0,
+		"style": {
+			"type": "rect",
+			"ratio": 3.8
 		}
 	},
 	{
