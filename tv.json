@@ -16,8 +16,8 @@
     {
       "name": "Gather",
       "type": 3,
-      "url": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "epg": "https://material.yang-1989.xyz/epg.xml.gz",
+      "url": "https://iptv.1989.click/playlist.m3u",
+      "epg": "https://material.1989.click/epg.xml.gz",
       "ua": "okhttp/3.8.1",
       "timeout": 10,
       "playerType": 2
