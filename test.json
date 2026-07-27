@@ -35,6 +35,14 @@
 		"api": ""
 	},
 	{
+		"key": "4KAV",
+		"name": "4KAV",
+		"type": 3,
+		"timeout": 15,
+		"api": "https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/py/4KAV.py",
+		"ext": ""
+	},
+	{
 		"key": "UVod",
 		"name": "🥇優視頻✨",
 		"type": 3,
