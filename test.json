@@ -1,14 +1,6 @@
 {
 "lives":[
 	{
-		"name": "Judy",
-		"type": 3,
-		"url": "https://iptv.8plus.eu.org/get.php?username=tg_rp4ca7d6&password=5nszzg556yj3&type=m3u_plus",
-		"epg": "https://iptv.8plus.eu.org/xmltv.php",
-		"ua": "Goiptv/8.8.8",
-		"playerType": 2
-	},
-	{
 		"name": "移动咪咕直播",
 		"type": 0, 
 		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u",

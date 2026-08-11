@@ -1,11 +1,17 @@
 {
-"spider": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e",
-
 "lives":[
 	{
 		"name": "tv",
 		"type": 0,
 		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/tv.m3u"
+	},
+	{
+		"name": "Judy",
+		"type": 3,
+		"url": "https://iptv.8plus.eu.org/get.php?username=tg_rp4ca7d6&password=5nszzg556yj3&type=m3u_plus",
+		"epg": "https://iptv.8plus.eu.org/xmltv.php",
+		"ua": "Goiptv/8.8.8",
+		"playerType": 2
 	},
 	{
 		"name": "alXStream",
@@ -42,142 +48,9 @@
 		"changeable": 0,
 		"api": ""
 	},
+
 	{"key":"电影天堂","name":"电影天堂","type":1,"timeout":15,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod"},
-	{
-		"key": "新首发",
-		"name": "👻标清┃小米",
-		"type": 3,
-		"api": "csp_AppGet",
-		"ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
-	},
-	{
-		"key": "爱营",
-		"name": "💥爱影┃小米",
-		"type": 3,
-		"api": "csp_AppGet",
-		"ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
-	},
-	{
-		"key": "听心99",
-		"name": "🦉欣欣┃小米",
-		"type": 3,
-		"api": "csp_App99",
-		"ext": {
-			"host": "https://api.12321app.com/api",
-			"LoginPath": "/app/log",
-			"version": "0b4328287a5d953e",
-			"appkey": "a0a18659a9977a47e53442cd084b536c",
-			"versionName": "2.8.1",
-			"name": "听心视频",
-			"package": "com.iksp.adsys.jjsp",
-			"buildNumber": "2001",
-			"buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
-		}
-	},
-	{
-		"key": "剧圈99",
-		"name": "🫎剧圈┃小米",
-		"type": 3,
-		"api": "csp_App99",
-		"ext": {
-			"host": "http://124.221.3.182:19987/app/bn",
-			"appkey": "d1f0c269eab74d93821fffc9befdbbba",
-			"versionName": "1.2.0",
-			"name": "剧圈圈",
-			"package": "com.qingtangxiaozhuan.xyz",
-			"buildNumber": "2002",
-			"buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-		}
-	},
-	{
-		"key": "顾我99",
-		"name": "🖼️顾我┃小米",
-		"type": 3,
-		"api": "csp_App99",
-		"ext": {
-			"host": "http://117.50.200.113:19987/app/bn",
-			"LoginPath": "/app/log",
-			"appkey": "040f9b1bc5e942569b5c3e63943306ab",
-			"versionName": "4.3.1",
-			"name": "顾我追剧",
-			"package": "com.guwozhuijux.app",
-			"buildNumber": "2001",
-			"buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
-		}
-	},
-	{
-		"key": "山楂",
-		"name": "🔴山楂┃小米",
-		"type": 3,
-		"timeout": 15,
-		"api": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/shanzha.py",
-		"ext": ""
-	},
-	{
-		"key": "枫叶影视",
-		"name": "🍁枫叶影视┃小米",
-		"type": 3,
-		"api": "csp_FengYe",
-		"filterable": 0,
-		"ext": "https://www.vip1949.com/"
-	},
-	{
-		"key": "天堂",
-		"name": "👀天堂┃小米",
-		"type": 3,
-		"api": "csp_AppDrama",
-		"ext": {
-			"appName": "电影天堂",
-			"publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-			"dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-			"dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-			"pkg": "com.dytiantang.one",
-			"host": "",
-			"site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-			"version": "3.0.0.7",
-			"decrypt": "0"
-		}
-	},
-	{
-		"key": "橘汁",
-		"name": "👀橘汁┃小米",
-		"type": 3,
-		"api": "csp_AppDrama",
-		"ext": {
-			"appName": "橘汁",
-			"publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-			"dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-			"dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-			"pkg": "com.lxf.snzlcgtzxyx",
-			"host": "",
-			"site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-			"version": "3.0.2.1",
-			"decrypt": "1"
-		}
-	},
-	{
-		"key": "Live",
-		"name": "🚑 LIVE|直播┃小米",
-		"type": 3,
-		"api": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/Live.py",
-		"searchable": 0,
-		"quickSearch": 0,
-		"style": {
-			"type": "rect",
-			"ratio": 3.8
-		}
-	},
-	{
-		"key": "88看球",
-		"name": "🏀体育┃小米",
-		"type": 3,
-		"timeout": 15,
-		"searchable": 0,
-		"api": "csp_Kanqiu",
-		"style": {
-			"type": "list"
-		}
-	},
+
 	{
 		"key": "88直播",
 		"name": "🥇⚽88✨┃FTY",
