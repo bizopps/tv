@@ -4,8 +4,8 @@
 		{ "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.json",    "name": "mya" },
 		{ "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/test.json", "name": "mytest" },
 		
-////	{ "url": "https://www.tangsan.fun/tv", "name": "唐三" },
-////	{ "url": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
+		{ "url": "https://www.tangsan.fun/tv", "name": "唐三" },
+		{ "url": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
 		
 		{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王二小" }
 
