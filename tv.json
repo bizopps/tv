@@ -21,24 +21,24 @@
 	},
     {
       "name": "Gather",
-      "type": 3,
-      "url": "https://iptv.1989.click/playlist.m3u",
-      "epg": "https://iptv.1989.click/epg.xml.gz",
+      "type": 0,
+      "url": "https://iptv.yang-1989.xyz/playlist.m3u",
+      "epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
       "ua": "okhttp/3.8.1",
       "playerType": 2
     },
     {
       "name": "migu",
-      "type": 3,
-      "url": "https://iptv.1989.click/migu/playlist.m3u",
+      "type": 0,
+      "url": "https://iptv.yang-1989.xyz/migu/playlist.m3u",
       "ua": "okhttp/3.8.1",
       "playerType": 2
     },
     {
       "name": "myTV",
-      "type": 3,
-      "url": "https://iptv.1989.click/myTV/playlist.m3u",
-      "epg": "https://iptv.1989.click/epg.xml.gz",
+      "type": 0,
+      "url": "https://iptv.yang-1989.xyz/myTV/playlist.m3u",
+      "epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
       "ua": "okhttp/3.8.1",
       "timeout": 10,
       "playerType": 2
