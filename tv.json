@@ -30,7 +30,6 @@
     {
 		"name": "migu",
 		"type": 0,
-		////"url": "https://iptv.yang-1989.xyz/migu/playlist.m3u",
 		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu_Org.m3u",
 		"ua": "okhttp/3.8.1",
 		"playerType": 2
