@@ -20,28 +20,29 @@
 		"epg": "https://pal6.short.gy/epgshare"
 	},
     {
-      "name": "Gather",
-      "type": 0,
-      "url": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
-      "ua": "okhttp/3.8.1",
-      "playerType": 2
+		"name": "Gather",
+		"type": 0,
+		"url": "https://iptv.yang-1989.xyz/playlist.m3u",
+		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
+		"ua": "okhttp/3.8.1",
+		"playerType": 2
     },
     {
-      "name": "migu",
-      "type": 0,
-      "url": "https://iptv.yang-1989.xyz/migu/playlist.m3u",
-      "ua": "okhttp/3.8.1",
-      "playerType": 2
+		"name": "migu",
+		"type": 0,
+		////"url": "https://iptv.yang-1989.xyz/migu/playlist.m3u",
+		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu_Org.m3u"
+		"ua": "okhttp/3.8.1",
+		"playerType": 2
     },
     {
-      "name": "myTV",
-      "type": 0,
-      "url": "https://iptv.yang-1989.xyz/myTV/playlist.m3u",
-      "epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
-      "ua": "okhttp/3.8.1",
-      "timeout": 10,
-      "playerType": 2
+		"name": "myTV",
+		"type": 0,
+		"url": "https://iptv.yang-1989.xyz/myTV/playlist.m3u",
+		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
+		"ua": "okhttp/3.8.1",
+		"timeout": 10,
+		"playerType": 2
     },
     {
 		"name": "ngz",
