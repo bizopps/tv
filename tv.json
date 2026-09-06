@@ -3,7 +3,8 @@
     {
 		"name": "咪咕",
 		"type": 0,
-		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu_Org.m3u"
+		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u",
+		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz"
     },
 	{
 		"name": "Judy",
