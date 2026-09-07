@@ -4,7 +4,11 @@
 		{ "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.json",    "name": "mya" },
 		{ "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/test.json", "name": "mytest" },
 		
-		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/9918.json", "name": "9918" },
+		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/99188.json", "name": "99188" },
+
+		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/367.json", "name": "367" },
+
+		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0825.json", "name": "0825" },
 
 		{ "url": "https://www.tangsan.fun/tv", "name": "唐三" },
 		{ "url": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
