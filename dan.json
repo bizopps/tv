@@ -4,6 +4,8 @@
 		{ "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.json",    "name": "mya" },
 		{ "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/test.json", "name": "mytest" },
 		
+		{ "url": "https://raw.githubusercontent.com/franksun1211/TVBOX/refs/heads/main/APP/TVBoxOSC/XC/XCTV.json", "name": "XCTV" },
+
 		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/9918.json", "name": "9918" },
 
 		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/99188.json", "name": "99188" },
