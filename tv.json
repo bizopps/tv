@@ -1,5 +1,17 @@
 {
 "lives":[
+	{
+		"name": "🐍┃易发港🇭🇰澳「直播」",
+		"type": 0,
+		"ua": "okhttp/3.15",
+		"url": "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+	},	
+	{
+		"name": "✨🧊┃全球揾定.華哥TV✨",
+		"type": 0,
+		"url": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive",
+		"playerType":1
+	},
     {
 		"name": "咪咕",
 		"type": 0,
