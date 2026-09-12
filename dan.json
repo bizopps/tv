@@ -10,9 +10,7 @@
 
 		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/99188.json", "name": "99188" },
 
-		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/367.json", "name": "367" },
-
-		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0825.json", "name": "0825" },
+		{ "url": "http://xhztv.top/4k.json", "name": "小盒子4K" },
 
 		{ "url": "https://www.tangsan.fun/tv", "name": "唐三" },
 		{ "url": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
