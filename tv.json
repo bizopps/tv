@@ -10,7 +10,7 @@
 		"name": "✨🧊┃全球揾定.華哥TV✨",
 		"type": 0,
 		"url": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive",
-		"playerType":1
+		"playerType": 1
 	},
     {
 		"name": "咪咕",
@@ -18,6 +18,12 @@
 		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u",
 		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz"
     },
+	{
+		"name": "Gary",
+		"type": 3,
+		"url": "https://tgbot-sub.sharewithyou.dpdns.org/sub?token=sub_941c0e75b5ecd45d55c0298b",
+		"playerType": 2
+	},
 	{
 		"name": "Judy",
 		"type": 3,
