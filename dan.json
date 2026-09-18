@@ -7,19 +7,27 @@
 		{ "url": "https://raw.githubusercontent.com/franksun1211/TVBOX/refs/heads/main/APP/TVBoxOSC/XC/XCTV.json", "name": "XCTV" },
 
 		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/9918.json", "name": "9918" },
-
 		{ "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/99188.json", "name": "99188" },
 
-		{ "url": "http://www.饭太硬.com/tv/", "name": "饭太硬" },
-		{ "url": "http://肥猫.com", "name": "肥猫" },
+		{ "url": "http://www.饭太硬.net/tv/", "name": "饭太硬" },
+		{ "url": "http://肥猫.net", "name": "肥猫" },
+		
+		{ "url": "http://tv.nxog.top/m/", "name": "讴歌" },
+		{ "url": "https://盒子迷.top/春盈天下", "name": "春莹天下" },
+		{ "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" },
+		{ "url": "http://ok321.top/tv", "name": "OK吊炸天" },
+		
+		{ "url": "http://47.96.82.41:5188/rose/18/xgg.json", "name": "xqq" },
+		{ "url": "https://6800.kstore.vip/fish.json", "name": "fish" },
+		{ "url": "http://fty.888484.xyz/tv", "name": "888484" },
+		{ "url": "http://fty.xxooo.cf/tv", "name": "xxooo" },
+		
+		{ "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "gaotianliuyun" },
+		
 
 		{ "url": "https://www.tangsan.fun/tv", "name": "唐三" },
 		{ "url": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
 		
 		{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王二小" }
-
-////	{ "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
-
-////	{ "url": "http://ok321.top/tv", "name": "OK影视" }
 	]
 }	
