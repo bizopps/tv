@@ -25,12 +25,6 @@
 		"playerType": 2
 	},
 	{
-		"name": "Gary2",
-		"type": 3,
-		"url": "http://192.166.82.72:5500/playlist.m3u",
-		"playerType": 2
-	},
-	{
 		"name": "Judy",
 		"type": 3,
 		"url": "https://iptv.8plus.eu.org/get.php?username=tg_rp4ca7d6&password=5nszzg556yj3&type=m3u_plus",
