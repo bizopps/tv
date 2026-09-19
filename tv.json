@@ -13,7 +13,7 @@
 		"playerType": 1
 	},
     {
-		"name": "咪咕",
+		"name": "Migu",
 		"type": 0,
 		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u",
 		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz"
@@ -31,6 +31,12 @@
 		"epg": "https://iptv.8plus.eu.org/xmltv.php",
 		"ua": "Goiptv/8.8.8",
 		"playerType": 2
+	},
+	{
+		"name": "Judy2",
+		"type": 0,
+		"url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u",
+		"ua": "Goiptv/8.8.8"
 	},
 	{
 		"name": "alXStream",
