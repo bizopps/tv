@@ -1,6 +1,6 @@
 {
 	"storeHouse": [
 		{"sourceName": "DanCang",  "sourceUrl": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/dan.json"},
-		{"sourceName": "欧歌", "sourceUrl": "https://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C"}
+		{"sourceName": "欧歌", "sourceUrl": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/dc2.txt"}
 	]
 }

@@ -77,7 +77,8 @@
 		"name": "4KAV",
 		"type": 3,
 		"timeout": 15,
-		"api": "https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/py/4KAV.py",
+		//"api": "https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/py/4KAV.py",
+		"api": "https://raw.githubusercontent.com/yangxiaoge/tvbox_cust/d134e8093b37cec82269844afe81326fb5b28169/tvbox/PyramidStore/plugin/html/4KAV.py",
 		"ext": ""
 	},
 	{
