@@ -1,17 +1,32 @@
 {
 "lives":[
 	{
-		"name": "移动咪咕直播",
-		"type": 0, 
-		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u",
-		"playerType": 2
+		"name": "🐍┃易发港🇭🇰澳「直播」",
+		"url": "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+		"type": 0
+	},	
+	{
+		"name": "✨🧊┃全球揾定.華哥TV✨",
+		"url": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive",
+		"type": 0
 	},
     {
-		"name": "综合直播",
-		"type": 0,
-		"url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-		"ua": "bingcha/1.1 (mianfeifenxiang)",
-		"playerType": 2
+		"name": "Migu",
+		"url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u",
+		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
+		"type": 0
+    },
+	{
+		"name": "alXStream",
+		"url": "https://7pal.short.gy/alxstream",
+		"epg": "https://pal6.short.gy/epgshare",
+		"type": 0
+	},
+    {
+		"name": "ngz",
+		"url": "http://38.75.136.137:88/api/tvlist.php",
+		"epg": "http://epg.51zmt.top:8000/e.xml",
+		"type": 3
     }
 ],
 
@@ -35,6 +50,14 @@
 		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
 		"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
 	},
+    {
+		"key": "瓜子影视",
+		"name": "🍉GZ┃HD2K",
+		"type": 3,
+		"timeout": 30,
+		"api": "csp_Gz360",
+		"jar": "https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+    },
 	
 {"key":"新浪资源","name":"新浪资源","type":1,"timeout":15,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/"},
 {"key":"爱奇艺资源","name":"爱奇艺资源","type":1,"timeout":15,"api":"https://iqiyizyapi.com/api.php/provide/vod/"}
