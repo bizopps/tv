@@ -26,12 +26,6 @@
 		"type": 0
 	},
     {
-		"name": "Gather2",
-		"url": "https://us.yang-1989.xyz/share/col/YanG-1989?token=H74cKc3Yo0ZQUDMvcdKU5",
-		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
- 		"type": 3
-	},
-    {
 		"name": "Gather",
 		"url": "https://iptv.yang-1989.xyz/playlist.m3u",
 		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
