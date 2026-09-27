@@ -9,20 +9,11 @@
 	{
 		"name": "Gary",
 		"url": "https://tgbot-sub.sharewithyou.dpdns.org/sub?token=sub_941c0e75b5ecd45d55c0298b",
-		//"playerType": 2,
 		"type": 3
 	},
 	{
 		"name": "Judy",
-		"url": "https://iptv.8plus.eu.org/get.php?username=tg_rp4ca7d6&password=5nszzg556yj3&type=m3u_plus",
-		"epg": "https://iptv.8plus.eu.org/xmltv.php",
-		//"ua": "Goiptv/8.8.8",
-		//"playerType": 2,
-		"type": 3
-	},
-	{
-		"name": "Judy2",
-		"url": "https://iptv.852851.xyz/sub/bwQfdMcUYrjq/playlist.m3u",
+		"url": "https://iptv.852851.xyz/sub/JRTpy7FfgNKk/playlist.m3u",
 		"type": 0
 	},
     {
@@ -30,7 +21,6 @@
 		"url": "https://iptv.yang-1989.xyz/playlist.m3u",
 		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
 		//"ua": "okhttp/3.8.1",
-		//"playerType": 2,
  		"type": 0
 	}
 ],
