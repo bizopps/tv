@@ -1,0 +1,46 @@
+{
+    "urls": [
+		{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/tv2.json",   "name": "mytv" },
+		{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a2.json",    "name": "mya" },
+		{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/test2.json", "name": "mytest" },
+		
+		{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/franksun1211/TVBOX/refs/heads/main/APP/TVBoxOSC/XC/XCTV.json", "name": "XCTV" },
+
+		{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/9918.json", "name": "9918" },
+		{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/99188.json", "name": "99188" },
+
+		{ "url": "http://47.96.82.41:5188/rose/18/xgg.json", "name": "xqq" },
+		
+		{ "url": "https://xn--cnq85d.nxog.fun/b?id=20", "name": "南风o" },
+		
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/888.html","name":"👇收集网络线路👇"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/1.html","name":"🌟1饭太硬线路1🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/2.html","name":"🌟2光歌云盘2🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/3.html","name":"🌟3盒子迷线路3🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/4.html","name":"🌟4肥猫线路4🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/5.html","name":"🌟5潇洒改版闪退5🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/6.html","name":"🌟6东篱线路6🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/7.html","name":"🌟7小米线路7🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/8.html","name":"🌟8王二线路8🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/9.html","name":"🌟9小虎线路9🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/10.html","name":"🌟10摸鱼线路10🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/11.html","name":"🌟11极客线路11🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/12.html","name":"🌟12分享线路12🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/13.html","name":"🌟13多多线路13🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/14.html","name":"🌟14无名线路14🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/15.html","name":"🌟15集多线路15🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/16.html","name":"🌟16菜妮丝线路16🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/17.html","name":"🌟17胜寒线路17🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/18.html","name":"🌟18驸马线路18🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/19.html","name":"🌟19小屋线路19🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/20.html","name":"🌟20南风线路20🌟"},
+		{"url":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/cache/21.html","name":"🌟21杰歌学习21🌟"},
+
+		{ "url": "https://www.tangsan.fun/tv", "name": "唐三" },
+		{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
+		
+		{ "url": "http://www.饭太硬.net/tv/", "name": "饭太硬" },
+		{ "url": "http://肥猫.net", "name": "肥猫" },
+		{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王二小" }
+	]
+}	

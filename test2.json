@@ -1,0 +1,111 @@
+{
+"lives":[
+	{
+		"name": "🐍┃易发港🇭🇰澳「直播」",
+		"url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+		"type": 0
+	},	
+	{
+		"name": "✨🧊┃全球揾定.華哥TV✨",
+		"url": "https://gh-proxy.org/https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive",
+		"type": 0
+	},
+    {
+		"name": "Migu",
+		"url": "https://gh-proxy.org/https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/migu.m3u",
+		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
+		"type": 0
+    },
+	{
+		"name": "Judy",
+		"url": "https://iptv.8plus.eu.org/get.php?username=tg_rp4ca7d6&password=5nszzg556yj3&type=m3u_plus",
+		"epg": "https://iptv.8plus.eu.org/xmltv.php",
+		//"ua": "Goiptv/8.8.8",
+		//"playerType": 2,
+		"type": 3
+	},
+	{
+		"name": "alXStream",
+		"url": "https://7pal.short.gy/alxstream",
+		"epg": "https://pal6.short.gy/epgshare",
+		"type": 0
+	},
+    {
+		"name": "ngz",
+		"url": "http://38.75.136.137:88/api/tvlist.php",
+		"epg": "http://epg.51zmt.top:8000/e.xml",
+		"type": 3
+    }
+],
+
+"sites":[
+	{
+		"key": "测试",
+		"name": "🎬测试",
+		"type": 3,
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 0,
+		"changeable": 0,
+		"api": ""
+	},
+	{
+		"key": "路漫漫",
+		"name": "🥇路漫漫✨｜动漫",
+		"type": 3,
+		"timeout": 15,
+		"api": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/drpy2.min.js",
+		"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+		"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/JS/路漫漫.js"
+	},
+    {
+		"key": "瓜子影视",
+		"name": "🍉GZ┃HD2K",
+		"type": 3,
+		"timeout": 30,
+		"api": "csp_Gz360",
+		"jar": "https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+    },
+	
+{"key":"新浪资源","name":"新浪资源","type":1,"timeout":15,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/"},
+{"key":"爱奇艺资源","name":"爱奇艺资源","type":1,"timeout":15,"api":"https://iqiyizyapi.com/api.php/provide/vod/"}
+//{"key":"百度资源","name":"百度资源","type":1,"timeout":15,"api":"https://api.apibdzy.com/api.php/provide/vod/"},
+],
+
+"headers": [
+	{
+		"host": "hlsztemgsplive.miguvideo.com",
+		"header": {
+			"User-Agent": "bingcha/1.1 (mianfeifenxiang)"
+		}
+	},
+	{
+		"host": "cache.ott.fifalive.itv.cmvideo.cn",
+		"header": {
+			"User-Agent": "okhttp/3.8.1"
+		}
+	}
+],
+
+"rules": [
+	{
+		"name": "proxy",
+		"hosts": [
+			"hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
+			//"cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
+			"cache.ott.fifalive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"
+		]
+	}
+],
+
+//"hosts":[
+	//"cache.ott.fifalive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"
+	//"*.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"
+	//"cache.ott.fifalive.itv.cmvideo.cn=39.136.124.70"
+	//"cache.ott.*.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"
+//	"cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+//],
+
+"ads": [
+]
+}
