@@ -16,6 +16,13 @@
 		"type": 0
 	},
     {
+		"name": "Gather",
+		"url": "https://iptv.yang-1989.xyz/playlist.m3u",
+		"epg": "https://iptv.yang-1989.xyz/epg.xml.gz",
+		//"ua": "okhttp/3.8.1",
+ 		"type": 0
+	},
+    {
 		"name": "ngz",
 		"url": "http://38.75.136.137:88/api/tvlist.php",
 		"epg": "http://epg.51zmt.top:8000/e.xml",
