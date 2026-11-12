@@ -18,24 +18,15 @@
     },
 	{
 		"name": "Judy",
-		"url": "https://iptv.8plus.eu.org/get.php?username=tg_rp4ca7d6&password=5nszzg556yj3&type=m3u_plus",
-		"epg": "https://iptv.8plus.eu.org/xmltv.php",
-		//"ua": "Goiptv/8.8.8",
-		//"playerType": 2,
-		"type": 3
+		"url": "https://caonima.898757.xyz/sub/Zz0uFf9Cz0kp/playlist.m3u",
+		"type": 0
 	},
 	{
 		"name": "alXStream",
 		"url": "https://7pal.short.gy/alxstream",
 		"epg": "https://pal6.short.gy/epgshare",
 		"type": 0
-	},
-    {
-		"name": "ngz",
-		"url": "http://38.75.136.137:88/api/tvlist.php",
-		"epg": "http://epg.51zmt.top:8000/e.xml",
-		"type": 3
-    }
+	}
 ],
 
 "sites":[
